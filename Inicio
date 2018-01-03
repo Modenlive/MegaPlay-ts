@@ -21,7 +21,7 @@
 
 <item>
 <title>[COLOR orange]>>  [/COLOR]AyE</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/19.m3u8&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/19.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/gz9no7d2v/aye.jpg</thumbnail>
 <fanart></fanart>
 </item>
