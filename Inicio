@@ -1,3 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<channels>
+<channels_info> <!-- this is optional -->
+<title>[COLOR red][/COLOR]</title> <!-- if channels_info, a title is required, other elements are optional -->
+<genre>[COLOR orange]M[COLOR white]ega P[COLOR orange]l[COLOR white]ay[/COLOR]</genre>
+<description></description>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<date>2018</date>
+<credits>@Elecdeka</credits>
+</channels_info>
+
+--------------------------------
+
 <channel>
 <name>[COLOR orange]>>  [/COLOR][COLOR white]Entretenimientos[/COLOR]</name>
 <info>MegaPlay Premium</info>
@@ -264,3 +279,6 @@ http://158.69.52.43:8000/live/elecuy/3844/61.m3u8
 <thumbnail>https://s26.postimg.org/agxn52f5l/descarga.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+-------------------------------
+
