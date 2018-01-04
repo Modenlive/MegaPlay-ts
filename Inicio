@@ -42,14 +42,14 @@
 <fanart>https://i1.wp.com/www.edtuttors.com/wp-content/uploads/2017/10/MegaPlay-apk-1.jpg</fanart>   
 
 <item>
-<title>[COLOR orange]>>  [/COLOR][COLOR white]Programacion EPG[/COLOR]</title>
+<title>[COLOR orange]>>  [/COLOR][COLOR white]Programacion EPG siguiente[COLOR orange]>>  [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
 <fanart>https://i1.wp.com/www.edtuttors.com/wp-content/uploads/2017/10/MegaPlay-apk-1.jpg</fanart>   
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<title>[COLOR orange][makelist.param1][/COLOR][COLOR white][makelist.param2][/COLOR] [makelist.param3]     [/COLOR]</title>
+<title>[COLOR orange][makelist.param1][/COLOR][COLOR white][makelist.param2][/COLOR][COLOR orange]>>  [/COLOR][makelist.param3]</title>
 <link>$doregex[ip]|User-Agent=iPad</link>
 <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
 <fanart>https://i1.wp.com/www.edtuttors.com/wp-content/uploads/2017/10/MegaPlay-apk-1.jpg</fanart>   
