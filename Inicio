@@ -1486,12 +1486,353 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 -------------------------------
 
 <channel>
-<name>[COLOR orange]>>  [/COLOR][COLOR white]Tv España[COLOR red] (en construccion)[/COLOR]</name>
+<name>[COLOR orange]>>  [/COLOR][COLOR white]Tv España[/COLOR]</name>
 <info>MegaPlay Premium</info>
 <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
 <fanart>https://i1.wp.com/www.edtuttors.com/wp-content/uploads/2017/10/MegaPlay-apk-1.jpg</fanart> 
 
+<item>
+<title>[COLOR orange]>>  [/COLOR]#0</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/3676.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>http://1.bp.blogspot.com/-mLYazT7W2vw/WkMI2SCOHpI/AAAAAAAAClM/klp_ak2r8IUX7I-w3UN4PuI_lDuOzsxbgCK4BGAYYCw/s1600/ox.jpg</thumbnail>
+<fanart></fanart>
+</item> 
 
+<item>
+<title>[COLOR orange]>>  [/COLOR]A&E ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/443.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/gz9no7d2v/aye.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]A3 SERIES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/3236.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/xzsjwsq3b/a3series.jpg</thumbnail>
+<fanart></fanart>
+</item>  
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]AMC ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/468.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/g9qvbv7ef/amc.jpg</thumbnail>
+<fanart></fanart>
+</item>  
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Antena 3 ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/467.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/8xq0juwhz/Antena_3.jpg</thumbnail>
+<fanart></fanart>
+</item>  tvg-id="Antena3.es" tvg-name="Antena 3 ES" tvg-logo="" group-title="ESPAÑA",
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]AXN ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/466.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/ug6m73pzb/axn.jpg</thumbnail>
+<fanart></fanart>
+</item>  tvg-id="AXN.es" tvg-name="AXN ES" tvg-logo="" group-title="ESPAÑA",
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]AXN White ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/465.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/6ge9ckx5z/axn_white.jpg</thumbnail>
+<fanart></fanart>
+</item>  
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Canal 24H ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1063.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/e56iasl7b/24he.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Canal Cocina ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/438.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/5mx26i4ev/cocina.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]CAZA Y PESCA</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/3675.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/6p78p102v/casaypescaso.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Clan TVE ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1065.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/g0xvzhhd3/clan.jpg</thumbnail>
+<fanart></fanart>
+</item>  tvg-id="ClanTVE.es" tvg-name="Clan TVE ES" tvg-logo="" group-title="ESPAÑA",
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Crimen Investigation</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/3712.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/ju8ypxcyf/cries.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Cuatro ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/456.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s26.postimg.org/tsht9bnqx/cachinopo.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Tele Cinco ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/444.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/mnfyf5ml3/canal_5.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Discovery Channel ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/437.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/5fu1u0zyf/discoverito.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Factoría de Ficción ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1064.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/5mx26iz9z/fdf.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Fox Life ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/454.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/iv11cwwdz/foxlife.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Fox ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/455.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/gz9nocajr/fox.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Historia ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1451.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/ncyqrln5j/historia.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Hollywood ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/453.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/mnfyf8ubr/holliwoddersss.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]La 1 ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/452.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s26.postimg.org/nzv6p16ux/secdf2_2.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]La 2 ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/451.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s26.postimg.org/bl8eop7mx/secdf2_1.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]La Sexta ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/450.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/6t5nisxg7/LA_SEXTA.jpg</thumbnail>
+<fanart></fanart>
+</item>  
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Mega ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/449.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/c0m59u1lz/mega.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Movistar Acción ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/464.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/r9c2ngidz/accion.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Movistar Comedia ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/463.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/4kmvnytbb/comediamovi.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Movistar DCine ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/462.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/848tds3qv/dcine.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Movistar Deportes 1</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/441.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/oj7c3tvlj/depo1.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Paramount Channel ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/447.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/5bk770nhz/paramount.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]SyFy ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/446.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/i2yddihuf/syfy.jpg</thumbnail>
+<fanart></fanart>
+</item>  
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]TCM ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/445.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/kx1iqyrqf/tcm.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Odisea ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/426.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/q8gfbnqnr/odisea.jpg</thumbnail>
+<fanart></fanart>
+</item>  tvg-id="Odisea.es" tvg-name="Odisea ES" tvg-logo="" group-title="ESPAÑA",
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Movistar Deportes 2</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/3674.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/xqzkkjadj/depo2.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Movistar Estrenos ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/461.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/8h07jzgvr/estrenomovi.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Movistar Golf ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/440.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/rdahh9ic7/golf.jpg</thumbnail>
+<fanart></fanart>
+</item>  
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Movistar Series ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/459.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/u4tr7njd3/series1.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Movistar Series XTRA ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/458.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/djm4s97rb/xtr.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Movistar Xtra ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/457.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/vaxr6mn53/xtra.jpg</thumbnail>
+<fanart></fanart>
+</item>  
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Nat Geo Wild ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/430.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/tqntuvmwn/nachowilstors.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]National Geographic ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/429.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/usy0dfdfr/national_geografica.jpg</thumbnail>
+<fanart></fanart>
+</item>  
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Neox ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/448.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/xa9rkp51z/neox.jpg</thumbnail>
+<fanart></fanart>
+</item>  
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Nick Jr ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/428.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/88n9dvsjb/nikjd.jpg</thumbnail>
+<fanart></fanart>
+</item>  
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Nickelodeon ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/427.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/jxr91ubs7/nichelodium.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Disney Channel ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/436.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/3mr55hh9z/disnch.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Disney Junior ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/435.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s26.postimg.org/o4biiq1hl/disney_junior.jpg</thumbnail>
+<fanart></fanart>
+</item>  
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Disney XD ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/434.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s26.postimg.org/vkas4ihh5/disneixd.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Canal Panda ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/425.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/vz6lpn6g7/panda.jpg</thumbnail>
+<fanart></fanart>
+</item>  
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Viajar ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/420.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/fcp1gqszr/viajar.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Toros ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/439.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/hsquuf3av/toros.jpg</thumbnail>
+<fanart></fanart>
+</item> 
 
 
 
