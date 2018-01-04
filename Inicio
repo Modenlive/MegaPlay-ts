@@ -1407,14 +1407,80 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 -------------------------------
 
 <channel>
-<name>[COLOR orange]>>  [/COLOR][COLOR white]Tv Argentina[COLOR red] (en construccion)[/COLOR]</name>
+<name>[COLOR orange]>>  [/COLOR][COLOR white]Tv Argentina[/COLOR]</name>
 <info>MegaPlay Premium</info>
 <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
 <fanart>https://i1.wp.com/www.edtuttors.com/wp-content/uploads/2017/10/MegaPlay-apk-1.jpg</fanart> 
 
+<item>
+<title>[COLOR orange]>>  [/COLOR]America 24</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1026.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s10.postimg.org/uz1letabt/a24.jpg</thumbnail>
+<fanart></fanart>
+</item>
 
+<item>
+<title>[COLOR orange]>>  [/COLOR]America 2</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1019.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s10.postimg.org/d8zwts4gp/america_2.jpg</thumbnail>
+<fanart></fanart>
+</item>
 
+<item>
+<title>[COLOR orange]>>  [/COLOR]C5N</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1024.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s10.postimg.org/8pno879pl/c5n.jpg</thumbnail>
+<fanart></fanart>
+</item> 
 
+<item>
+<title>[COLOR orange]>>  [/COLOR]Canal 9</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1023.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s10.postimg.org/aro5mj7pl/el_9.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]El Trece</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1020.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s10.postimg.org/ix67kp3o9/el_trece.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Telefe</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1021.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s10.postimg.org/53huvmnxl/telefe.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Todo Noticias</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1025.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s26.postimg.org/f5sdvlb3d/yyryryr_(1).jpg</thumbnail>
+<fanart></fanart>
+</item> tvg-id="Todo Noticias" tvg-name="Todo Noticias" tvg-logo="" group-title="ARGENTINA",
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Canal 26</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1033.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s10.postimg.org/6ijfkdzbd/canal_26.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Cronica TV</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1028.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s10.postimg.org/aewrgd4vd/cronica.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]TV Publica</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1022.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s10.postimg.org/rffnp2521/Tvp.jpg</thumbnail>
+<fanart></fanart>
+</item> 
 
 
 -------------------------------
