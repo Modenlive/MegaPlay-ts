@@ -310,16 +310,6 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 <fanart>https://i1.wp.com/www.edtuttors.com/wp-content/uploads/2017/10/MegaPlay-apk-1.jpg</fanart> 
 
 
-
-
-
-<item>
-<title>[COLOR orange]>>  [/COLOR]</title> 
-<link>plugin://plugin.video.f4mTester/?url=.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
-<thumbnail>https://s5.postimg.org/gz9no7d2v/aye.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
 <item>
 <title>[COLOR orange]>>  [/COLOR]AMC</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/85.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
@@ -612,6 +602,127 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <channel>
 <name>[COLOR orange]>>  [/COLOR][COLOR white]Series 24H[/COLOR]</name>
+<info>MegaPlay Premium</info>
+<thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
+<fanart>https://i1.wp.com/www.edtuttors.com/wp-content/uploads/2017/10/MegaPlay-apk-1.jpg</fanart> 
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Dr House</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/2267.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>http://158.69.52.43:8000/images/2267.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Dragon Ball SUPER</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/3061.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>http://158.69.52.43:8000/images/3061.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]El Mentalista</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/2403.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>http://158.69.52.43:8000/images/1403.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Escandalosos</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/2678.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>http://158.69.52.43:8000/images/2678.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Futurama</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/3007.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>http://158.69.52.43:8000/images/3007.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Game Of Trones</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1870.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>http://158.69.52.43:8000/images/1870.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Hora De Aventura</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/2466.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>http://158.69.52.43:8000/images/2466.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]La Teoria Del Big Bang</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/2000.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>http://158.69.52.43:8000/images/2000.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Los Simpson</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1900.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>http://158.69.52.43:8000/images/1900.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Malcolm El De En Medio</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/3494.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>http://158.69.52.43:8000/images/3494.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Padre De Familia</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1872.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>http://158.69.52.43:8000/images/1872.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]South Park</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/2165.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>http://158.69.52.43:8000/images/2165.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]The Flash</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/2331.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>http://158.69.52.43:8000/images/2331.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]The Walking Dead</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1876.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>http://158.69.52.43:8000/images/1876.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Un Agente De Familia</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/2100.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>http://158.69.52.43:8000/images/2100.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Un Show Más</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1948.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>http://158.69.52.43:8000/images/1948.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+-------------------------------
+
+<channel>
+<name>[COLOR orange]>>  [/COLOR][COLOR white]Deportes[/COLOR]</name>
 <info>MegaPlay Premium</info>
 <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
 <fanart>https://i1.wp.com/www.edtuttors.com/wp-content/uploads/2017/10/MegaPlay-apk-1.jpg</fanart> 
