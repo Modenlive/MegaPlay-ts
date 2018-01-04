@@ -1336,10 +1336,82 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 -------------------------------
 
 <channel>
-<name>[COLOR orange]>>  [/COLOR][COLOR white]Canales Latinos[COLOR red] (en construccion)[/COLOR]</name>
+<name>[COLOR orange]>>  [/COLOR][COLOR white]Tv Uruguay[/COLOR]</name>
 <info>MegaPlay Premium</info>
 <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
 <fanart>https://i1.wp.com/www.edtuttors.com/wp-content/uploads/2017/10/MegaPlay-apk-1.jpg</fanart> 
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]CANAL 4</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/413.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s18.postimg.org/e6qpnrr61/canal_4.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]CANAL 5</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1599.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/4l2wu32o7/television_nacional.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]CANAL 10</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/414.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/u3v97cel3/canal_10.jpg</thumbnail>
+<fanart></fanart>
+</item>  
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]CANAL 12</title> 
+<link>http://api.new.livestream.com/accounts/13567583/events/6415731/live.m3u8</link> 
+<thumbnail>https://s5.postimg.org/osgcmn087/tele.jpg</thumbnail>
+<fanart></fanart>
+</item>  
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]TV CIUDAD</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1601.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/72eo1lud3/tv_ciudad.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]VERA PLUS</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1600.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/n0ndrqwav/vera_tv_2_B.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]VTV SD</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1450.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s26.postimg.org/50bq2kb2x/VTV.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]VTV HD</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/493.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s26.postimg.org/50bq2kb2x/VTV.jpg</thumbnail>
+<fanart></fanart>
+</item>  
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]VTV +</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/494.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/48bio8zxj/vtv_2_B.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+
+-------------------------------
+
+<channel>
+<name>[COLOR orange]>>  [/COLOR][COLOR white]Tv Argentina[COLOR red] (en construccion)[/COLOR]</name>
+<info>MegaPlay Premium</info>
+<thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
+<fanart>https://i1.wp.com/www.edtuttors.com/wp-content/uploads/2017/10/MegaPlay-apk-1.jpg</fanart> 
+
 
 
 
@@ -1348,10 +1420,47 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 -------------------------------
 
 <channel>
-<name>[COLOR orange]>>  [/COLOR][COLOR white]Canales HD[COLOR red] (en construccion)[/COLOR]</name>
+<name>[COLOR orange]>>  [/COLOR][COLOR white]Tv España[COLOR red] (en construccion)[/COLOR]</name>
 <info>MegaPlay Premium</info>
 <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
 <fanart>https://i1.wp.com/www.edtuttors.com/wp-content/uploads/2017/10/MegaPlay-apk-1.jpg</fanart> 
+
+
+
+
+
+
+-------------------------------
+
+<channel>
+<name>[COLOR orange]>>  [/COLOR][COLOR white]Tv Mexico[COLOR red] (en construccion)[/COLOR]</name>
+<info>MegaPlay Premium</info>
+<thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
+<fanart>https://i1.wp.com/www.edtuttors.com/wp-content/uploads/2017/10/MegaPlay-apk-1.jpg</fanart> 
+
+
+
+
+
+
+
+-------------------------------
+
+<channel>
+<name>[COLOR orange]>>  [/COLOR][COLOR white]Tv Chile[COLOR red] (en construccion)[/COLOR]</name>
+<info>MegaPlay Premium</info>
+<thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
+<fanart>https://i1.wp.com/www.edtuttors.com/wp-content/uploads/2017/10/MegaPlay-apk-1.jpg</fanart> 
+
+
+-------------------------------
+
+<channel>
+<name>[COLOR orange]>>  [/COLOR][COLOR white]Tv Colombia[COLOR red] (en construccion)[/COLOR]</name>
+<info>MegaPlay Premium</info>
+<thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
+<fanart>https://i1.wp.com/www.edtuttors.com/wp-content/uploads/2017/10/MegaPlay-apk-1.jpg</fanart> 
+
 
 
 
@@ -1364,9 +1473,6 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 <info>MegaPlay Premium</info>
 <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
 <fanart>https://i1.wp.com/www.edtuttors.com/wp-content/uploads/2017/10/MegaPlay-apk-1.jpg</fanart> 
-
-
-
 
 
 <item>
