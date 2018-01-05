@@ -1349,6 +1349,26 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>
 
 <item>
+<title>[B][COLOR blue]•   [/B][/COLOR]Canal 7</title>
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/canal/10425</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://2.bp.blogspot.com/-3pSRWDygxqY/WdzJUhdVzTI/AAAAAAAAB40/cpv2RinzhW4BquK_KWp5XATAisXq0RgSwCK4BGAYYCw/s1600/canal%2B7.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLOR orange]>>  [/COLOR]CANAL 10</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/414.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/u3v97cel3/canal_10.jpg</thumbnail>
@@ -1363,30 +1383,56 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>  
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]TV CIUDAD</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1601.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<title>[COLOR orange]>>  TV CIUDAD HD[/COLOR]</title> 
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/canal/6046</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar>
+</regex>
 <thumbnail>https://s5.postimg.org/72eo1lud3/tv_ciudad.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]VERA PLUS</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1600.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<title>[COLOR orange]>>  VERA PLUS HD[/COLOR]</title> 
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/canal/17765</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar>
+</regex>
 <thumbnail>https://s5.postimg.org/n0ndrqwav/vera_tv_2_B.jpg</thumbnail>
-<fanart></fanart>
-</item> 
+<fanart><fanart>
+</item>
 
 <item>
 <title>[COLOR orange]>>  [/COLOR]VTV SD</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1450.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
-<thumbnail>https://s26.postimg.org/50bq2kb2x/VTV.jpg</thumbnail>
+<thumbnail>https://s5.postimg.org/nderxzz5z/vtv.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]VTV HD</title> 
+<title>[COLOR orange]>>  VTV HD[/COLOR]</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/493.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
-<thumbnail>https://s26.postimg.org/50bq2kb2x/VTV.jpg</thumbnail>
+<thumbnail>https://s5.postimg.org/nderxzz5z/vtv.jpg</thumbnail>
 <fanart></fanart>
 </item>  
 
@@ -1434,8 +1480,23 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item> 
 
 <item>
+<title>[COLOR orange]>>  [/COLOR]Canal 9 (op 2)</title> 
+<link>http://dwgoed11hdvfh.cloudfront.net/c9/smil:live.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 4.3; Nexus 7 Build/JSS15Q)</link>
+<thumbnail>https://s10.postimg.org/aro5mj7pl/el_9.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
 <title>[COLOR orange]>>  [/COLOR]El Trece</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1020.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s10.postimg.org/ix67kp3o9/el_trece.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]El Trece (op 2)</title> 
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9h6Vz6ylIdE&feature=youtu.be</link>
+<info></info>
 <thumbnail>https://s10.postimg.org/ix67kp3o9/el_trece.jpg</thumbnail>
 <fanart></fanart>
 </item> 
@@ -1455,6 +1516,13 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item> tvg-id="Todo Noticias" tvg-name="Todo Noticias" tvg-logo="" group-title="ARGENTINA",
 
 <item>
+<title>[COLOR orange]>>  [/COLOR]TN Noticias (op 2)</title>
+<link>http://prepublish.f.qaotic.net/a04/ngrp:tn_live01-100083_all/chunklist.m3u8|Referer=http://vmf.edge-apps.net&User-Agent=Mozilla/5.0</link>
+<thumbnail>https://s26.postimg.org/f5sdvlb3d/yyryryr_(1).jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLOR orange]>>  [/COLOR]Canal 26</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1033.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s10.postimg.org/6ijfkdzbd/canal_26.jpg</thumbnail>
@@ -1465,6 +1533,13 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 <title>[COLOR orange]>>  [/COLOR]Cronica TV</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1028.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s10.postimg.org/aewrgd4vd/cronica.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Ciudad Magazine</title>
+<link>http://prepublish.f.qaotic.net/f01/ngrp:magazine_live01-100083_all/chunklist_b346000.m3u8|Referer=http://vmf.edge-apps.net&User-Agent=Mozilla/5.0</link>
+<thumbnail>http://1.bp.blogspot.com/-cZcn_5Fz-Nw/WdaNiTlbleI/AAAAAAAABkg/XvBWTxapTOQQO943BlgRTenMuTpGMOT3QCK4BGAYYCw/s1600/Ciudad%2BMagazing.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -1498,25 +1573,11 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]A3 SERIES</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/3236.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
-<thumbnail>https://s5.postimg.org/xzsjwsq3b/a3series.jpg</thumbnail>
-<fanart></fanart>
-</item>  
-
-<item>
 <title>[COLOR orange]>>  [/COLOR]AMC ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/468.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/g9qvbv7ef/amc.jpg</thumbnail>
 <fanart></fanart>
 </item>  
-
-<item>
-<title>[COLOR orange]>>  [/COLOR]Antena 3 ES</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/467.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
-<thumbnail>https://s5.postimg.org/8xq0juwhz/Antena_3.jpg</thumbnail>
-<fanart></fanart>
-</item>  tvg-id="Antena3.es" tvg-name="Antena 3 ES" tvg-logo="" group-title="ESPAÑA",
 
 <item>
 <title>[COLOR orange]>>  [/COLOR]AXN ES</title> 
@@ -1530,7 +1591,21 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/465.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/6ge9ckx5z/axn_white.jpg</thumbnail>
 <fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]A3 SERIES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/3236.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/xzsjwsq3b/a3series.jpg</thumbnail>
+<fanart></fanart>
 </item>  
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Antena 3 ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/467.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/8xq0juwhz/Antena_3.jpg</thumbnail>
+<fanart></fanart>
+</item>   
 
 <item>
 <title>[COLOR orange]>>  [/COLOR]Canal 24H ES</title> 
@@ -1558,7 +1633,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1065.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/g0xvzhhd3/clan.jpg</thumbnail>
 <fanart></fanart>
-</item>  tvg-id="ClanTVE.es" tvg-name="Clan TVE ES" tvg-logo="" group-title="ESPAÑA",
+</item>  
 
 <item>
 <title>[COLOR orange]>>  [/COLOR]Crimen Investigation</title> 
@@ -1705,7 +1780,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/426.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/q8gfbnqnr/odisea.jpg</thumbnail>
 <fanart></fanart>
-</item>  tvg-id="Odisea.es" tvg-name="Odisea ES" tvg-logo="" group-title="ESPAÑA",
+</item> 
 
 <item>
 <title>[COLOR orange]>>  [/COLOR]Movistar Deportes 2</title> 
