@@ -49,6 +49,13 @@ channel>
 </item>
 
 <item>
+<title>[COLOR orange]>>  A&E HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/124.m3u8</link> 
+<thumbnail>http://z.cdn.entutele.com/media/channels/big/ae-hd.gif</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLOR orange]>>  [/COLOR]Animal Planet</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/60.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/animal-planet.gif</thumbnail>
@@ -63,6 +70,13 @@ channel>
 </item>
 
 <item>
+<title>[COLOR orange]>>  Investigation Discovery HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/3537.m3u8</link> 
+<thumbnail>http://z.cdn.entutele.com/media/channels/big/investigacion-discovery.gif</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLOR orange]>>  [/COLOR]Tru TV</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/21.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/trutv.gif</thumbnail>
@@ -70,11 +84,25 @@ channel>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]ComedyCentral</title> 
+<title>[COLOR orange]>>  Tru TV HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/133.m3u8</link> 
+<thumbnail>http://z.cdn.entutele.com/media/channels/big/trutv-hd.gif</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Comedy Central</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/22.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/comedy-central-hd.gif</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLOR orange]>>  Comedy Central HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/3538.m3u8</link> 
+<thumbnail>http://z.cdn.entutele.com/media/channels/big/comedy-central-hd.gif</thumbnail>
+<fanart></fanart>
+</item> 
 
 <item>
 <title>[COLOR orange]>>  [/COLOR]Canal 5</title> 
@@ -84,9 +112,23 @@ channel>
 </item>
 
 <item>
+<title>[COLOR orange]>>  [/COLOR]CANAL 5 HD</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/3860.m3u8</link> 
+<thumbnail>http://z.cdn.entutele.com/media/channels/big/canal-5-hd.gif</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
 <title>[COLOR orange]>>  [/COLOR]Azteca 7</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/5.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/azteca-7.gif</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orange]>>  AZTECA 7 HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/3861.m3u8</link> 
+<thumbnail>http://z.cdn.entutele.com/media/channels/big/azteca-7-hd.gif</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -110,6 +152,13 @@ channel>
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/discovery-channel.gif</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLOR orange]>>  Discovery Channel HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/3539.m3u8</link> 
+<thumbnail>http://z.cdn.entutele.com/media/channels/big/discovery-channel.gif</thumbnail>
+<fanart></fanart>
+</item> 
 
 <item>
 <title>[COLOR orange]>>  [/COLOR]Discovery Civilization</title> 
@@ -156,11 +205,18 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]!E Entertainment</title> 
+<title>[COLOR orange]>>  [/COLOR]E! Entertainment</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/29.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/e-entertainment-television.gif</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLOR orange]>>  E! Entertainment HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/3856.m3u8</link> 
+<thumbnail>http://z.cdn.entutele.com/media/channels/big/e-entertainment-television.gif</thumbnail>
+<fanart></fanart>
+</item> 
 
 <item>
 <title>[COLOR orange]>>  [/COLOR]Fox Life</title> 
@@ -184,13 +240,6 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]H2</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/183.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
-<thumbnail>http://z.cdn.entutele.com/media/channels/big/h2.gif</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>[COLOR orange]>>  [/COLOR]History Channel</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/56.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/history-channel.gif</thumbnail>
@@ -198,9 +247,30 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>
 
 <item>
+<title>[COLOR orange]>>  History Channel HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/127.m3u8</link> 
+<thumbnail>http://z.cdn.entutele.com/media/channels/big/history-hd.gif</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]H2</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/183.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>http://z.cdn.entutele.com/media/channels/big/h2.gif</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLOR orange]>>  [/COLOR]Hola Tv</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/24.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://4.bp.blogspot.com/-0OyY2kQq_H4/WgO4GIMOVAI/AAAAAAAACZw/_jXIDlf-An0fNMfaljoh2vmFH4iZFxkGACK4BGAYYCw/s1600/hola%2Btv.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orange]>>  Hola TV HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/682.m3u8</link> 
+<thumbnail>https://s32.postimg.org/u5dyinul1/hola_revista_logo.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -224,6 +294,13 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/natgeo.gif</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLOR orange]>>  Nat Geo HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/687.m3u8</link> 
+<thumbnail>http://z.cdn.entutele.com/media/channels/big/natgeo.gif</thumbnail>
+<fanart></fanart>
+</item> 
 
 <item>
 <title>[COLOR orange]>>  [/COLOR]Nat Geo Wild</title> 
@@ -289,9 +366,23 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>
 
 <item>
+<title>[COLOR orange]>>  Univision HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/1455.m3u8</link> 
+<thumbnail>https://s6.postimg.org/9mu32qonl/univision.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLOR orange]>>  [/COLOR]Unicable</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/23.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/unicable.gif</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orange]>>  Unicable HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/662.m3u8</link> 
+<thumbnail>http://z.cdn.entutele.com/media/channels/big/unicable-hd.gif</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -305,7 +396,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 -------------------------------
 
 <channel>
-<name>[COLOR orange]>>  [/COLOR][COLOR white]Peliculas[/COLOR]</name>
+<name>[COLOR orange]>>  [/COLOR][COLOR white]Peliculas y Series[/COLOR]</name>
 <info>MegaPlay Premium</info>
 <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
 <fanart>https://i1.wp.com/www.edtuttors.com/wp-content/uploads/2017/10/MegaPlay-apk-1.jpg</fanart> 
@@ -319,6 +410,13 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>
 
 <item>
+<title>[COLOR orange]>>  AMC HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/157.m3u8</link> 
+<thumbnail>http://z.cdn.entutele.com/media/channels/big/amc-hd.gif</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLOR orange]>>  [/COLOR]AXN</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/20.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/axn.gif</thumbnail>
@@ -326,7 +424,14 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Azteca</title> 
+<title>[COLOR orange]>>  AXN HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/125.m3u8</link> 
+<thumbnail>http://z.cdn.entutele.com/media/channels/big/axn-hd.gif</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Azteca cine</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/74.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/az-clic.gif</thumbnail>
 <fanart></fanart>
@@ -336,6 +441,13 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 <title>[COLOR orange]>>  [/COLOR]Cinecanal</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/75.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/cinecanal-w.gif</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orange]>>  Cinecanal HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/113.m3u8</link> 
+<thumbnail>http://z.cdn.entutele.com/media/channels/big/cinecanal-hd.gif</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -354,6 +466,13 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>
 
 <item>
+<title>[COLOR orange]>>  Cinemax HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/865.m3u8</link> 
+<thumbnail>http://z.cdn.entutele.com/media/channels/big/cinemax-o.gif</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
 <title>[COLOR orange]>>  [/COLOR]DePelicula</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/79.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/de-pelicula.gif</thumbnail>
@@ -361,8 +480,22 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>
 
 <item>
+<title>[COLOR orange]>>  De Película HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/866.m3u8</link> 
+<thumbnail>http://z.cdn.entutele.com/media/channels/big/de-pelicula-hd.gif</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLOR orange]>>  [/COLOR]Fox Internacional</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/14.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>http://z.cdn.entutele.com/media/channels/big/fox.gif</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orange]>>  Fox HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/123.m3u8</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/fox.gif</thumbnail>
 <fanart></fanart>
 </item>
@@ -375,11 +508,25 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>
 
 <item>
+<title>[COLOR orange]>>  FX HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/132.m3u8</link> 
+<thumbnail>http://z.cdn.entutele.com/media/channels/big/fx-hd.gif</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLOR orange]>>  [/COLOR]Fox Action</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/70.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/fox-action-e.gif</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLOR orange]>>  Fox Action HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/116.m3u8</link> 
+<thumbnail>http://z.cdn.entutele.com/media/channels/big/fox-action-hd.gif</thumbnail>
+<fanart></fanart>
+</item> 
 
 <item>
 <title>[COLOR orange]>>  [/COLOR]Fox Premium Series</title> 
@@ -389,11 +536,11 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]FXM</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/2450.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
-<thumbnail>http://z.cdn.entutele.com/media/channels/big/fx-movies-hd.gif</thumbnail>
+<title>[COLOR orange]>>  Fox Premium Series HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/120.m3u8</link> 
+<thumbnail>http://z.cdn.entutele.com/media/channels/big/fox-premium-series-hd.gif</thumbnail>
 <fanart></fanart>
-</item>
+</item> 
 
 <item>
 <title>[COLOR orange]>>  [/COLOR]Fox Cinema</title> 
@@ -417,11 +564,39 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>
 
 <item>
+<title>[COLOR orange]>>  Fox Movies HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/115.m3u8</link> 
+<thumbnail>http://z.cdn.entutele.com/media/channels/big/fox-movies-hd.gif</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]FXM</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/2450.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>http://z.cdn.entutele.com/media/channels/big/fx-movies-hd.gif</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orange]>>  FXM HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/4209.m3u8</link> 
+<thumbnail>http://z.cdn.entutele.com/media/channels/big/fx-movies-hd.gif</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
 <title>[COLOR orange]>>  [/COLOR]Golden</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/77.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/golden.gif</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLOR orange]>>  Golden HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/122.m3u8</link> 
+<thumbnail>http://z.cdn.entutele.com/media/channels/big/golden-hd.gif</thumbnail>
+<fanart></fanart>
+</item> 
 
 <item>
 <title>[COLOR orange]>>  [/COLOR]Golden Edge</title> 
@@ -445,8 +620,22 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>
 
 <item>
+<title>[COLOR orange]>>  HBO HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/3099.m3u8</link> 
+<thumbnail>http://z.cdn.entutele.com/media/channels/big/hbo-hd.gif</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
 <title>[COLOR orange]>>  [/COLOR]HBO 2</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/378.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>http://z.cdn.entutele.com/media/channels/big/hbo-2.gif</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>[COLOR orange]>>  HBO 2 HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/4557.m3u8</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/hbo-2.gif</thumbnail>
 <fanart></fanart>
 </item> 
@@ -529,6 +718,13 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>
 
 <item>
+<title>[COLOR orange]>>  Syfy HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/872.m3u8</link> 
+<thumbnail>http://z.cdn.entutele.com/media/channels/big/syfy.gif</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLOR orange]>>  [/COLOR]Space</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/80.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/space.gif</thumbnail>
@@ -536,8 +732,15 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Space HD</title> 
+<title>[COLOR orange]>>  [/COLOR]Space (La)</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/86.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>http://z.cdn.entutele.com/media/channels/big/space-hd.gif</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orange]>>  Space HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/156.m3u8</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/space-hd.gif</thumbnail>
 <fanart></fanart>
 </item>
@@ -578,8 +781,22 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>
 
 <item>
+<title>[COLOR orange]>>  TNT HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/129.m3u8</link> 
+<thumbnail>http://z.cdn.entutele.com/media/channels/big/tnt-hd.gif</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
 <title>[COLOR orange]>>  [/COLOR]TNT Series</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/33.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>http://z.cdn.entutele.com/media/channels/big/tnt-series.gif</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>[COLOR orange]>>  TNT Series HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/128.m3u8</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/tnt-series.gif</thumbnail>
 <fanart></fanart>
 </item> 
@@ -592,11 +809,25 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item> 
 
 <item>
+<title>[COLOR orange]>>  Universal Channel HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/131.m3u8</link> 
+<thumbnail>http://z.cdn.entutele.com/media/channels/big/universal-hd.gif</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
 <title>[COLOR orange]>>  [/COLOR]Warner Channel</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/16.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/warner-channel.gif</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLOR orange]>>  Warner Channel HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/130.m3u8</link> 
+<thumbnail>http://z.cdn.entutele.com/media/channels/big/warner-hd.gif</thumbnail>
+<fanart></fanart>
+</item> 
 
 -------------------------------
 
@@ -738,8 +969,8 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Tyc Sports AR</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1790.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<title>[COLOR orange]>>  Tyc Sports AR HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/1790.m3u8</link> 
 <thumbnail>https://s26.postimg.org/5i9o71zix/tycsport.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -780,29 +1011,29 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]beIN LaLiga ES</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/460.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<title>[COLOR orange]>>  beIN LaLiga ES HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/460.m3u8</link> 
 <thumbnail>https://s26.postimg.org/b6fyxsqyx/beinsport.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]beIN Sports ES</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/442.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<title>[COLOR orange]>>  beIN Sports ES HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/442.m3u8</link> 
 <thumbnail>https://s26.postimg.org/b6fyxsqyx/beinsport.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]beIN Sports HD</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/473.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<title>[COLOR orange]>>  beIN Sports HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/473.m3u8</link> 
 <thumbnail>https://s26.postimg.org/b6fyxsqyx/beinsport.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]beIN Sports Ñ</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/405.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<title>[COLOR orange]>>  beIN Sports Ñ HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/405.m3u8</link> 
 <thumbnail>https://s26.postimg.org/b6fyxsqyx/beinsport.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -815,6 +1046,13 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>
 
 <item>
+<title>[COLOR orange]>>  ESPN HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/119.m3u8</link> 
+<thumbnail>http://z.cdn.entutele.com/media/channels/big/espn-hd.gif</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
 <title>[COLOR orange]>>  [/COLOR]ESPN 2 AR</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/4049.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/clhjmkx7t/espn_2.jpg</thumbnail>
@@ -822,9 +1060,23 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>
 
 <item>
+<title>[COLOR orange]>>  ESPN 2 HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/152.m3u8</link> 
+<thumbnail>http://z.cdn.entutele.com/media/channels/big/espn-2.gif</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLOR orange]>>  [/COLOR]ESPN 3 AR</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/2860.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/bvyra8c3t/espn3.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orange]>>  ESPN 3 HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/153.m3u8</link> 
+<thumbnail>http://z.cdn.entutele.com/media/channels/big/espn-3.gif</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -885,9 +1137,23 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>
 
 <item>
+<title>[COLOR orange]>>  Fox Sports HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/118.m3u8</link> 
+<thumbnail>http://z.cdn.entutele.com/media/channels/big/fox-sports-hd.gif</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
 <title>[COLOR orange]>>  [/COLOR]Fox Sports 2 AR</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1821.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/imf8joep5/Foxsport_2.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orange]>>  Fox Sports 2 HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/151.m3u8</link> 
+<thumbnail>http://z.cdn.entutele.com/media/channels/big/fox-sports-2-hd.gif</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -939,6 +1205,13 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 <thumbnail>https://s6.postimg.org/atf1auf69/F1-3d.png</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLOR orange]>>  F1 HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/155.m3u8</link> 
+<thumbnail>http://static.iptv-epg.com/at/ORF1.at.png</thumbnail>
+<fanart></fanart>
+</item> 
 
 <item>
 <title>[COLOR orange]>>  [/COLOR]Cdf Basico CL</title> 
@@ -1095,6 +1368,13 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item> 
 
 <item>
+<title>[COLOR orange]>>  NBC UNIVERSO HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/1456.m3u8</link> 
+<thumbnail>http://static.iptv-epg.com/us/NBCUniverso.us.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLOR orange]>>  [/COLOR]Real Madrid TV ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1786.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://static.iptv-epg.com/es/RealMadridTV.es.png</thumbnail>
@@ -1216,6 +1496,57 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 -------------------------------
 
 <channel>
+<name>[COLOR orange]>>  [/COLOR][COLOR white]Musica[/COLOR]</name>
+<info>MegaPlay Premium</info>
+<thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
+<fanart>https://i1.wp.com/www.edtuttors.com/wp-content/uploads/2017/10/MegaPlay-apk-1.jpg</fanart> 
+
+
+<item>
+<title>[COLOR orange]>>  MTV HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/3857.m3u8</link> 
+<thumbnail>http://z.cdn.entutele.com/media/channels/big/mtv.gif</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>[COLOR orange]>>  MTV Life HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/121.m3u8</link> 
+<thumbnail>http://static.iptv-epg.com/us/MTVLive.us.png</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>[COLOR orange]>>  Ritmoson MX HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/752.m3u8</link> 
+<thumbnail>http://i.imgur.com/BIGriW6.png</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>[COLOR orange]>>  Telehit MX HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/753.m3u8</link> 
+<thumbnail>https://s6.postimg.org/wsbsn70b5/telehit.png</thumbnail>
+<fanart></fanart>
+</item> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-------------------------------
+
+<channel>
 <name>[COLOR orange]>>  [/COLOR][COLOR white]Infantiles[/COLOR]</name>
 <info>MegaPlay Premium</info>
 <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
@@ -1239,6 +1570,13 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 <title>[COLOR orange]>>  [/COLOR]Cartoon Network</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/50.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/pyoxz1gfr/cartonnet.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Cartoon Network HD</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/126.m3u8</link> 
+<thumbnail>http://z.cdn.entutele.com/media/channels/big/cartoon-network.gif</thumbnail>
 <fanart></fanart>
 </item> 
 
@@ -1292,6 +1630,13 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item> 
 
 <item>
+<title>[COLOR orange]>>  Nickelodeon HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/705.m3u8</link> 
+<thumbnail>http://z.cdn.entutele.com/media/channels/big/nickelodeon-nick.gif</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
 <title>[COLOR orange]>>  [/COLOR]Nickelodeon 2</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/48.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/88n9e0iaf/nick2.jpg</thumbnail>
@@ -1306,6 +1651,13 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item> 
 
 <item>
+<title>[COLOR orange]>>  Nick Jr HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/710.m3u8</link> 
+<thumbnail>http://z.cdn.entutele.com/media/channels/big/nick-jr.gif</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
 <title>[COLOR orange]>>  [/COLOR]NICK TOONS</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/47.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/rqhwtsulz/frdf.jpg</thumbnail>
@@ -1316,6 +1668,13 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 <title>[COLOR orange]>>  [/COLOR]TiiN</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/53.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/3zijbpwzr/tiin.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orange]>>  TIIN HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/713.m3u8</link> 
+<thumbnail>http://z.cdn.entutele.com/media/channels/big/tiin.gif</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -1938,32 +2297,11 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Azteca 7</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/5.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
-<thumbnail>http://z.cdn.entutele.com/media/channels/big/azteca-7.gif</thumbnail>
-<fanart></fanart>
-</item>  
-
-<item>
 <title>[COLOR orange]>>  [/COLOR]Azteca Corazon</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/27.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s6.postimg.org/uq24hgnkh/azcorazon.png</thumbnail>
 <fanart></fanart>
-</item> 
-
-<item>
-<title>[COLOR orange]>>  [/COLOR]Azteca 13</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/8.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
-<thumbnail>https://s6.postimg.org/jkv8wld8x/azteca-13-hd.png</thumbnail>
-<fanart></fanart>
 </item>
-
-<item>
-<title>[COLOR orange]>>  [/COLOR]Canal 11</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/7.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
-<thumbnail>http://z.cdn.entutele.com/media/channels/big/once-tv.gif</thumbnail>
-<fanart></fanart>
-</item> 
 
 <item>
 <title>[COLOR orange]>>  [/COLOR]Canal 5</title> 
@@ -1973,9 +2311,44 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Canal 5 HD</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/149.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<title>[COLOR orange]>>  Canal 5 HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/149.m3u8</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/canal-5-hd.gif</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Azteca 7</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/5.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>http://z.cdn.entutele.com/media/channels/big/azteca-7.gif</thumbnail>
+<fanart></fanart>
+</item>   
+
+<item>
+<title>[COLOR orange]>>  AZTECA 7 HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/3861.m3u8</link> 
+<thumbnail>http://z.cdn.entutele.com/media/channels/big/azteca-7-hd.gif</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Canal 11</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/7.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>http://z.cdn.entutele.com/media/channels/big/once-tv.gif</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orange]>>  [/COLOR]Azteca 13</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/8.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s6.postimg.org/jkv8wld8x/azteca-13-hd.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orange]>>  AZTECA 13 HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/3862.m3u8</link> 
+<thumbnail>http://z.cdn.entutele.com/media/channels/big/az-clic.gif</thumbnail>
 <fanart></fanart>
 </item> 
 
@@ -2015,8 +2388,8 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Galavision HD</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/135.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<title>[COLOR orange]>>  Galavision HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/135.m3u8</link> 
 <thumbnail>https://s6.postimg.org/6d0ghe53l/galahd.png</thumbnail>
 <fanart></fanart>
 </item> 
@@ -2032,6 +2405,13 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 <title>[COLOR orange]>>  [/COLOR]Las Estrellas</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/2.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/c/c5/LOGO-LAS-ESTRELLAS.png/revision/latest?cb=20160901194528</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>[COLOR orange]>>  Las Estrellas HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/150.m3u8</link> 
+<thumbnail>https://www.foromedios.com/uploads/monthly_2016_08/rojo2.png.97a0e3046d89aefbf962b031b77222d6.png</thumbnail>
 <fanart></fanart>
 </item> 
 
