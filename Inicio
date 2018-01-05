@@ -1349,7 +1349,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>
 
 <item>
-<title>[B][COLOR blue]•   [/B][/COLOR]Canal 7</title>
+<title>[COLOR orange]>>  [/COLOR]Canal 7</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
