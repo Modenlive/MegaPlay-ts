@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+ <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
 
 <channels>
@@ -50,7 +50,7 @@ channel>
 
 <item>
 <title>[COLOR orange]>>  AyE HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/124.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/124.ts</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/ae-hd.gif</thumbnail>
 <fanart></fanart>
 </item>
@@ -71,7 +71,7 @@ channel>
 
 <item>
 <title>[COLOR orange]>>  Investigation Discovery HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/3537.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/3537.ts</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/investigacion-discovery.gif</thumbnail>
 <fanart></fanart>
 </item>
@@ -85,7 +85,7 @@ channel>
 
 <item>
 <title>[COLOR orange]>>  Tru TV HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/133.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/133.ts</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/trutv-hd.gif</thumbnail>
 <fanart></fanart>
 </item>
@@ -99,7 +99,7 @@ channel>
 
 <item>
 <title>[COLOR orange]>>  Comedy Central HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/3538.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/3538.ts</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/comedy-central-hd.gif</thumbnail>
 <fanart></fanart>
 </item> 
@@ -113,7 +113,7 @@ channel>
 
 <item>
 <title>[COLOR orange]>>  [/COLOR]CANAL 5 HD</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/3860.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/3860.ts</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/canal-5-hd.gif</thumbnail>
 <fanart></fanart>
 </item> 
@@ -127,7 +127,7 @@ channel>
 
 <item>
 <title>[COLOR orange]>>  AZTECA 7 HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/3861.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/3861.ts</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/azteca-7-hd.gif</thumbnail>
 <fanart></fanart>
 </item>
@@ -155,7 +155,7 @@ channel>
 
 <item>
 <title>[COLOR orange]>>  Discovery Channel HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/3539.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/3539.ts</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/discovery-channel.gif</thumbnail>
 <fanart></fanart>
 </item> 
@@ -213,7 +213,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <item>
 <title>[COLOR orange]>>  E! Entertainment HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/3856.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/3856.ts</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/e-entertainment-television.gif</thumbnail>
 <fanart></fanart>
 </item> 
@@ -248,7 +248,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <item>
 <title>[COLOR orange]>>  History Channel HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/127.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/127.ts</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/history-hd.gif</thumbnail>
 <fanart></fanart>
 </item> 
@@ -269,7 +269,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <item>
 <title>[COLOR orange]>>  Hola TV HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/682.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/682.ts</link> 
 <thumbnail>https://s32.postimg.org/u5dyinul1/hola_revista_logo.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -297,7 +297,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <item>
 <title>[COLOR orange]>>  Nat Geo HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/687.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/687.ts</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/natgeo.gif</thumbnail>
 <fanart></fanart>
 </item> 
@@ -367,7 +367,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <item>
 <title>[COLOR orange]>>  Univision HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/1455.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/1455.ts</link> 
 <thumbnail>https://s26.postimg.org/btfdu29ix/DDSDH.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -381,7 +381,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <item>
 <title>[COLOR orange]>>  Unicable HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/662.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/662.ts</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/unicable-hd.gif</thumbnail>
 <fanart></fanart>
 </item>
@@ -411,7 +411,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <item>
 <title>[COLOR orange]>>  AMC HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/157.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/157.ts</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/amc-hd.gif</thumbnail>
 <fanart></fanart>
 </item>
@@ -425,7 +425,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <item>
 <title>[COLOR orange]>>  AXN HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/125.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/125.ts</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/axn-hd.gif</thumbnail>
 <fanart></fanart>
 </item>
@@ -446,7 +446,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <item>
 <title>[COLOR orange]>>  Cinecanal HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/113.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/113.ts</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/cinecanal-hd.gif</thumbnail>
 <fanart></fanart>
 </item>
@@ -467,7 +467,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <item>
 <title>[COLOR orange]>>  Cinemax HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/865.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/865.ts</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/cinemax-o.gif</thumbnail>
 <fanart></fanart>
 </item> 
@@ -481,7 +481,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <item>
 <title>[COLOR orange]>>  De Película HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/866.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/866.ts</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/de-pelicula-hd.gif</thumbnail>
 <fanart></fanart>
 </item>
@@ -495,7 +495,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <item>
 <title>[COLOR orange]>>  Fox HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/123.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/123.ts</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/fox.gif</thumbnail>
 <fanart></fanart>
 </item>
@@ -509,7 +509,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <item>
 <title>[COLOR orange]>>  FX HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/132.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/132.ts</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/fx-hd.gif</thumbnail>
 <fanart></fanart>
 </item>
@@ -523,7 +523,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <item>
 <title>[COLOR orange]>>  Fox Action HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/116.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/116.ts</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/fox-action-hd.gif</thumbnail>
 <fanart></fanart>
 </item> 
@@ -537,7 +537,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <item>
 <title>[COLOR orange]>>  Fox Premium Series HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/120.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/120.ts</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/fox-premium-series-hd.gif</thumbnail>
 <fanart></fanart>
 </item> 
@@ -565,7 +565,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <item>
 <title>[COLOR orange]>>  Fox Movies HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/115.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/115.ts</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/fox-movies-hd.gif</thumbnail>
 <fanart></fanart>
 </item>
@@ -579,7 +579,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <item>
 <title>[COLOR orange]>>  FXM HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/4209.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/4209.ts</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/fx-movies-hd.gif</thumbnail>
 <fanart></fanart>
 </item> 
@@ -593,7 +593,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <item>
 <title>[COLOR orange]>>  Golden HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/122.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/122.ts</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/golden-hd.gif</thumbnail>
 <fanart></fanart>
 </item> 
@@ -621,7 +621,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <item>
 <title>[COLOR orange]>>  HBO HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/3099.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/3099.ts</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/hbo-hd.gif</thumbnail>
 <fanart></fanart>
 </item> 
@@ -635,7 +635,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <item>
 <title>[COLOR orange]>>  HBO 2 HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/4557.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/4557.ts</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/hbo-2.gif</thumbnail>
 <fanart></fanart>
 </item> 
@@ -719,7 +719,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <item>
 <title>[COLOR orange]>>  Syfy HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/872.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/872.ts</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/syfy.gif</thumbnail>
 <fanart></fanart>
 </item>
@@ -740,7 +740,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <item>
 <title>[COLOR orange]>>  Space HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/156.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/156.ts</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/space-hd.gif</thumbnail>
 <fanart></fanart>
 </item>
@@ -782,7 +782,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <item>
 <title>[COLOR orange]>>  TNT HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/129.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/129.ts</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/tnt-hd.gif</thumbnail>
 <fanart></fanart>
 </item> 
@@ -796,7 +796,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <item>
 <title>[COLOR orange]>>  TNT Series HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/128.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/128.ts</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/tnt-series.gif</thumbnail>
 <fanart></fanart>
 </item> 
@@ -810,7 +810,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <item>
 <title>[COLOR orange]>>  Universal Channel HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/131.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/131.ts</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/universal-hd.gif</thumbnail>
 <fanart></fanart>
 </item> 
@@ -824,7 +824,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <item>
 <title>[COLOR orange]>>  Warner Channel HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/130.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/130.ts</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/warner-hd.gif</thumbnail>
 <fanart></fanart>
 </item> 
@@ -970,7 +970,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <item>
 <title>[COLOR orange]>>  Tyc Sports AR HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/1790.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/1790.ts</link> 
 <thumbnail>https://s26.postimg.org/5i9o71zix/tycsport.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -1012,28 +1012,28 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <item>
 <title>[COLOR orange]>>  beIN LaLiga ES HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/460.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/460.ts</link> 
 <thumbnail>https://s26.postimg.org/b6fyxsqyx/beinsport.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLOR orange]>>  beIN Sports ES HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/442.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/442.ts</link> 
 <thumbnail>https://s26.postimg.org/b6fyxsqyx/beinsport.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLOR orange]>>  beIN Sports HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/473.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/473.ts</link> 
 <thumbnail>https://s26.postimg.org/b6fyxsqyx/beinsport.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLOR orange]>>  beIN Sports Ñ HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/405.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/405.ts</link> 
 <thumbnail>https://s26.postimg.org/b6fyxsqyx/beinsport.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -1047,7 +1047,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <item>
 <title>[COLOR orange]>>  ESPN HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/119.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/119.ts</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/espn-hd.gif</thumbnail>
 <fanart></fanart>
 </item> 
@@ -1061,7 +1061,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <item>
 <title>[COLOR orange]>>  ESPN 2 HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/152.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/152.ts</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/espn-2.gif</thumbnail>
 <fanart></fanart>
 </item>
@@ -1075,7 +1075,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <item>
 <title>[COLOR orange]>>  ESPN 3 HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/153.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/153.ts</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/espn-3.gif</thumbnail>
 <fanart></fanart>
 </item>
@@ -1138,7 +1138,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <item>
 <title>[COLOR orange]>>  Fox Sports HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/118.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/118.ts</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/fox-sports-hd.gif</thumbnail>
 <fanart></fanart>
 </item> 
@@ -1152,7 +1152,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <item>
 <title>[COLOR orange]>>  Fox Sports 2 HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/151.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/151.ts</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/fox-sports-2-hd.gif</thumbnail>
 <fanart></fanart>
 </item>
@@ -1208,7 +1208,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <item>
 <title>[COLOR orange]>>  F1 HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/155.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/155.ts</link> 
 <thumbnail>http://static.iptv-epg.com/at/ORF1.at.png</thumbnail>
 <fanart></fanart>
 </item> 
@@ -1369,7 +1369,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <item>
 <title>[COLOR orange]>>  NBC UNIVERSO HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/1456.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/1456.ts</link> 
 <thumbnail>http://static.iptv-epg.com/us/NBCUniverso.us.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -1525,7 +1525,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <item>
 <title>[COLOR orange]>>  MTV HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/3857.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/3857.ts</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/mtv.gif</thumbnail>
 <fanart></fanart>
 </item> 
@@ -1567,7 +1567,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <item>
 <title>[COLOR orange]>>  MTV Life HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/121.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/121.ts</link> 
 <thumbnail>http://static.iptv-epg.com/us/MTVLive.us.png</thumbnail>
 <fanart></fanart>
 </item> 
@@ -1616,7 +1616,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <item>
 <title>[COLOR orange]>>  Ritmoson HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/752.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/752.ts</link> 
 <thumbnail>http://i.imgur.com/BIGriW6.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -1630,7 +1630,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <item>
 <title>[COLOR orange]>>  Telehit MX HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/753.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/753.ts</link> 
 <thumbnail>https://s6.postimg.org/wsbsn70b5/telehit.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -1651,7 +1651,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <item>
 <title>[COLOR orange]>>  TU MUSICA HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/4044.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/4044.ts</link> 
 <thumbnail>https://s26.postimg.org/pyl58bix5/GHYTG.jpg</thumbnail>
 <fanart></fanart>
 </item> 
@@ -1729,7 +1729,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <item>
 <title>[COLOR orange]>>  [/COLOR]Cartoon Network HD</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/126.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/126.ts</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/cartoon-network.gif</thumbnail>
 <fanart></fanart>
 </item> 
@@ -1785,7 +1785,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <item>
 <title>[COLOR orange]>>  Nickelodeon HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/705.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/705.ts</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/nickelodeon-nick.gif</thumbnail>
 <fanart></fanart>
 </item> 
@@ -1806,7 +1806,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <item>
 <title>[COLOR orange]>>  Nick Jr HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/710.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/710.ts</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/nick-jr.gif</thumbnail>
 <fanart></fanart>
 </item> 
@@ -1827,7 +1827,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <item>
 <title>[COLOR orange]>>  TIIN HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/713.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/713.ts</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/tiin.gif</thumbnail>
 <fanart></fanart>
 </item>
@@ -1890,7 +1890,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <item>
 <title>[COLOR orange]>>  [/COLOR]CANAL 12</title> 
-<link>http://api.new.livestream.com/accounts/13567583/events/6415731/live.m3u8</link> 
+<link>http://api.new.livestream.com/accounts/13567583/events/6415731/live.ts</link> 
 <thumbnail>https://s5.postimg.org/osgcmn087/tele.jpg</thumbnail>
 <fanart></fanart>
 </item>  
@@ -1944,7 +1944,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <item>
 <title>[COLOR orange]>>  VTV HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/493.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/493.ts</link> 
 <thumbnail>https://s5.postimg.org/nderxzz5z/vtv.jpg</thumbnail>
 <fanart></fanart>
 </item>  
@@ -2482,7 +2482,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <item>
 <title>[COLOR orange]>>  Canal 5 HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/149.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/149.ts</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/canal-5-hd.gif</thumbnail>
 <fanart></fanart>
 </item>
@@ -2496,7 +2496,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <item>
 <title>[COLOR orange]>>  Azteca 7 HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/3861.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/3861.ts</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/azteca-7-hd.gif</thumbnail>
 <fanart></fanart>
 </item>
@@ -2517,7 +2517,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <item>
 <title>[COLOR orange]>>  Azteca 13 HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/3862.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/3862.ts</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/az-clic.gif</thumbnail>
 <fanart></fanart>
 </item> 
@@ -2559,7 +2559,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <item>
 <title>[COLOR orange]>>  Galavision HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/135.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/135.ts</link> 
 <thumbnail>https://s6.postimg.org/6d0ghe53l/galahd.png</thumbnail>
 <fanart></fanart>
 </item> 
@@ -2580,7 +2580,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <item>
 <title>[COLOR orange]>>  Las Estrellas HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/150.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/150.ts</link> 
 <thumbnail>https://www.foromedios.com/uploads/monthly_2016_08/rojo2.png.97a0e3046d89aefbf962b031b77222d6.png</thumbnail>
 <fanart></fanart>
 </item> 
@@ -2790,7 +2790,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <item>
 <title>[COLOR orange]>>  Miami Tv HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/2306.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/2306.ts</link> 
 <thumbnail>https://s26.postimg.org/x20extetl/ghfffx.jpg</thumbnail>
 <fanart></fanart>
 </item> 
@@ -2825,7 +2825,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <item>
 <title>[COLOR orange]>>  PINK EROTIC 2 HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/1794.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/1794.ts</link> 
 <thumbnail>https://s26.postimg.org/x20extetl/ghfffx.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -2853,7 +2853,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <item>
 <title>[COLOR orange]>>  Candy HD[/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/elecuy/3844/2483.m3u8</link> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/2483.ts</link> 
 <thumbnail>https://s26.postimg.org/x20extetl/ghfffx.jpg</thumbnail>
 <fanart></fanart>
 </item> 
@@ -2897,3 +2897,4 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 <page>https://www.entutele.com/programacion/todos</page>
 </regex>
 </item>
+
