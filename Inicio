@@ -1115,15 +1115,15 @@ item>
 </item>
 
 <item>
-<title>[B][COLOR orange]>>  [/B][/COLOR]Fox Deportes US</title> 
+<title>[B][COLOR orange]>>  [/B][/COLOR]Fox Sport LA</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Andyes/Andyes/2844.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/g53hcen2x/Foxsport.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[B][COLOR orange]>>  [/B][/COLOR]Fox Sports 1 CL</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Andyes/Andyes/1746.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<title>[B][COLOR orange]>>  Fox Sports 1 CL HD[/B][/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/Andyes/Andyes/1746.ts</link> 
 <thumbnail>https://s26.postimg.org/g53hcen2x/Foxsport.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -1220,8 +1220,8 @@ item>
 </item>
 
 <item>
-<title>[B][COLOR orange]>>  [/B][/COLOR]Cdf premiun CL</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Andyes/Andyes/1819.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<title>[B][COLOR orange]>>   Cdf premiun CL HD[/B][/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/Andyes/Andyes/1819.ts</link> 
 <thumbnail>https://s6.postimg.org/ln7py3w41/cdf.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -1255,8 +1255,8 @@ item>
 </item>
 
 <item>
-<title>[B][COLOR orange]>>  [/B][/COLOR]</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Andyes/Andyes/416.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<title>[B][COLOR orange]>>  Estadio CDF HD[/B][/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/Andyes/Andyes/416.ts</link> 
 <thumbnail>http://p4.zdassets.com/hc/settings_assets/240700/200018186/br5kwKteXLu0JhEwmHmrGw-ecdf_3.png</thumbnail>
 <fanart>Estadio CDF HD</fanart>
 </item>
@@ -1269,8 +1269,8 @@ item>
 </item>
 
 <item>
-<title>[B][COLOR orange]>>  [/B][/COLOR]Estadio CDF 2 HD</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Andyes/Andyes/4318.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<title>[B][COLOR orange]>>  Estadio CDF 2 HD[/B][/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/Andyes/Andyes/4318.ts</link> 
 <thumbnail>http://p4.zdassets.com/hc/settings_assets/240700/200018186/br5kwKteXLu0JhEwmHmrGw-ecdf_3.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -1353,8 +1353,8 @@ item>
 </item>
 
 <item>
-<title>[B][COLOR orange]>>  [/B][/COLOR]Movistar Moto GP ES</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Andyes/Andyes/432.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<title>[B][COLOR orange]>>  Movistar Moto GP ES HD[/B][/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/Andyes/Andyes/432.ts</link> 
 <thumbnail>http://static.iptv-epg.com/es/MovistarMotoGP.es.png</thumbnail>
 <fanart></fanart>
 </item> 
@@ -1374,8 +1374,8 @@ item>
 </item>
 
 <item>
-<title>[B][COLOR orange]>>  [/B][/COLOR]Real Madrid TV ES</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Andyes/Andyes/1786.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<title>[B][COLOR orange]>>  Real Madrid TV ES HD[/B][/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/Andyes/Andyes/1786.ts</link> 
 <thumbnail>http://static.iptv-epg.com/es/RealMadridTV.es.png</thumbnail>
 <fanart></fanart>
 </item> 
@@ -1423,8 +1423,8 @@ item>
 </item>
 
 <item>
-<title>[B][COLOR orange]>>  [/B][/COLOR]TDN MX</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Andyes/Andyes/167.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<title>[B][COLOR orange]>>  TDN MX HD[/B][/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/Andyes/Andyes/167.ts</link> 
 <thumbnail>https://s26.postimg.org/w3c72kzbd/tdn.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -1451,15 +1451,15 @@ item>
 </item>
 
 <item>
-<title>[B][COLOR orange]>>  [/B][/COLOR]Univision Tdn</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Andyes/Andyes/164.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<title>[B][COLOR orange]>>  Univision Tdn HD[/B][/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/Andyes/Andyes/164.ts</link> 
 <thumbnail>https://s26.postimg.org/a45sff0hl/univicion_tdc.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[B][COLOR orange]>>  [/B][/COLOR]Univision Deportes HD</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Andyes/Andyes/1449.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<title>[B][COLOR orange]>>  Univision Deportes HD[/B][/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/Andyes/Andyes/1449.ts</link> 
 <thumbnail>https://s26.postimg.org/h7dnv0y7d/univicion_deportes.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -1479,15 +1479,15 @@ item>
 </item>
 
 <item>
-<title>[B][COLOR orange]>>  [/B][/COLOR]CHIVAS TV HD</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Andyes/Andyes/1753.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<title>[B][COLOR orange]>>  CHIVAS TV HD[/B][/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/Andyes/Andyes/1753.ts</link> 
 <thumbnail>https://s26.postimg.org/atokrmvuh/chivas.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[B][COLOR orange]>>  [/B][/COLOR]CHIVAS TV FHD</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Andyes/Andyes/3267.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<title>[B][COLOR orange]>>  CHIVAS TV FHD[/B][/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/Andyes/Andyes/3267.ts</link> 
 <thumbnail>https://s26.postimg.org/atokrmvuh/chivas.jpg</thumbnail>
 <fanart></fanart>
 </item> 
