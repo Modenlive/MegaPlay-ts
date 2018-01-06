@@ -1847,14 +1847,14 @@ item>
 <fanart>https://i1.wp.com/www.edtuttors.com/wp-content/uploads/2017/10/MegaPlay-apk-1.jpg</fanart> 
 
 <item>
-<title>[B][COLOR orange]>>  [/B][/COLOR]CANAL 4</title> 
+<title>[B][COLOR orange]>>  [/B][/COLOR]Canal 4</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Andyes/Andyes/413.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s18.postimg.org/e6qpnrr61/canal_4.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[B][COLOR orange]>>  [/B][/COLOR]CANAL 5</title> 
+<title>[B][COLOR orange]>>  [/B][/COLOR]Canal 5</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Andyes/Andyes/1599.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/4l2wu32o7/television_nacional.jpg</thumbnail>
 <fanart></fanart>
@@ -1881,21 +1881,21 @@ item>
 </item>
 
 <item>
-<title>[B][COLOR orange]>>  [/B][/COLOR]CANAL 10</title> 
+<title>[B][COLOR orange]>>  [/B][/COLOR]Canal 10</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Andyes/Andyes/414.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/u3v97cel3/canal_10.jpg</thumbnail>
 <fanart></fanart>
 </item>  
 
 <item>
-<title>[B][COLOR orange]>>  [/B][/COLOR]CANAL 12</title> 
+<title>[B][COLOR orange]>>  [/B][/COLOR]Canal 12</title> 
 <link>http://api.new.livestream.com/accounts/13567583/events/6415731/live.ts</link> 
 <thumbnail>https://s5.postimg.org/osgcmn087/tele.jpg</thumbnail>
 <fanart></fanart>
 </item>  
 
 <item>
-<title>[B][COLOR orange]>>  [/B]TV CIUDAD HD[/COLOR]</title> 
+<title>[B][COLOR orange]>>  [/B]Tv Ciudad HD[/COLOR]</title> 
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -1915,7 +1915,7 @@ item>
 </item> 
 
 <item>
-<title>[B][COLOR orange]>>  [/B]VERA PLUS HD[/COLOR]</title> 
+<title>[B][COLOR orange]>>  [/B]VERA + HD[/COLOR]</title> 
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
