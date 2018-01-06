@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
-
 <channels>
 <channels_info> <!-- this is optional -->
 <title>[COLOR red][/COLOR]</title> <!-- if channels_info, a title is required, other elements are optional -->
@@ -1844,7 +1843,7 @@ item>
 <channel>
 <name>[B][COLOR orange]>>[/COLOR][/B]  [COLOR white]Tv Uruguay[/COLOR]</name>
 <info>MegaPlay Premium</info>
-<thumbnail>https://s26.postimg.org/mvp26g3bt/Uruguay-icon.jpg</thumbnail>
+<thumbnail>https://s26.postimg.org/7xyo5vnsp/URUGUAY.jpg</thumbnail>
 <fanart>https://i1.wp.com/www.edtuttors.com/wp-content/uploads/2017/10/MegaPlay-apk-1.jpg</fanart> 
 
 <item>
@@ -1961,7 +1960,7 @@ item>
 <channel>
 <name>[B][COLOR orange]>>[/COLOR][/B]  [COLOR white]Tv Argentina[/COLOR]</name>
 <info>MegaPlay Premium</info>
-<thumbnail>https://s26.postimg.org/hka5lojt5/Argentina-icon.jpg</thumbnail>
+<thumbnail>https://s26.postimg.org/bhklvo3d5/ARGENTINA.jpgg</thumbnail>
 <fanart>https://i1.wp.com/www.edtuttors.com/wp-content/uploads/2017/10/MegaPlay-apk-1.jpg</fanart> 
 
 
@@ -2084,7 +2083,7 @@ item>
 <channel>
 <name>[B][COLOR orange]>>[/COLOR][/B]  [COLOR white]Tv España[/COLOR]</name>
 <info>MegaPlay Premium</info>
-<thumbnail>https://s26.postimg.org/67xk3y0uh/HTB17w1pHXXXXXXrXXXX760XFXXXg.jpg</thumbnail>
+<thumbnail>https://s26.postimg.org/6ix3h5ufd/ESPAÑA.jpg</thumbnail>
 <fanart>https://i1.wp.com/www.edtuttors.com/wp-content/uploads/2017/10/MegaPlay-apk-1.jpg</fanart> 
 
 <item>
@@ -2435,7 +2434,7 @@ item>
 <channel>
 <name>[B][COLOR orange]>>[/COLOR][/B]  [COLOR white]Tv Mexico[/COLOR]</name>
 <info>MegaPlay Premium</info>
-<thumbnail>https://s26.postimg.org/6xgcgato9/Mexico-icon.jpg</thumbnail>
+<thumbnail>https://s26.postimg.org/hv9oyxfyx/MEXICO.jpg</thumbnail>
 <fanart>https://i1.wp.com/www.edtuttors.com/wp-content/uploads/2017/10/MegaPlay-apk-1.jpg</fanart> 
 
 <item>
@@ -2647,7 +2646,7 @@ item>
 <channel>
 <name>[B][COLOR orange]>>[/COLOR][/B]  [COLOR white]Tv Chile[/COLOR]</name>
 <info>MegaPlay Premium</info>
-<thumbnail>https://s26.postimg.org/7zqiysmrd/Chile-icon.jpg</thumbnail>
+<thumbnail>https://s26.postimg.org/53viseqrd/CHILE.jpg</thumbnail>
 <fanart>https://i1.wp.com/www.edtuttors.com/wp-content/uploads/2017/10/MegaPlay-apk-1.jpg</fanart> 
 
 
@@ -2719,7 +2718,7 @@ item>
 <channel>
 <name>[B][COLOR orange]>>[/COLOR][/B]  [COLOR white]Tv Colombia[/COLOR]</name>
 <info>MegaPlay Premium</info>
-<thumbnail>https://s26.postimg.org/bw3uusuw9/Colombia-icon.jpg</thumbnail>
+<thumbnail>https://s26.postimg.org/5gmwylw6h/COLOMBIA.jpg</thumbnail>
 <fanart>https://i1.wp.com/www.edtuttors.com/wp-content/uploads/2017/10/MegaPlay-apk-1.jpg</fanart> 
 
 <item>
