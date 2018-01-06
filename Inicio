@@ -1,4 +1,4 @@
- <?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
 
 <channels>
@@ -36,13 +36,13 @@ channel>
 ---------------------------------
 
 <channel>
-<name>[COLOR orange]>>  [/COLOR][COLOR white]Entretenimientos[/COLOR]</name>
+<name>[B][COLOR orange]>>[/COLOR][/B]  [COLOR white]Entretenimientos[/COLOR]</name>
 <info>MegaPlay Premium</info>
 <thumbnail>https://s26.postimg.org/imkc4957d/hSj63U56.jpg</thumbnail>
 <fanart>https://i1.wp.com/www.edtuttors.com/wp-content/uploads/2017/10/MegaPlay-apk-1.jpg</fanart>   
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]AyE</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]AyE</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/19.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/gz9no7d2v/aye.jpg</thumbnail>
 <fanart></fanart>
@@ -56,14 +56,14 @@ channel>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Animal Planet</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Animal Planet</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/60.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/animal-planet.gif</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Investigation Discovery</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Investigation Discovery</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/32.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/investigacion-discovery.gif</thumbnail>
 <fanart></fanart>
@@ -77,7 +77,7 @@ channel>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Tru TV</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Tru TV</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/21.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/trutv.gif</thumbnail>
 <fanart></fanart>
@@ -91,7 +91,7 @@ channel>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Comedy Central</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Comedy Central</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/22.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/comedy-central-hd.gif</thumbnail>
 <fanart></fanart>
@@ -105,21 +105,21 @@ channel>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Canal 5</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Canal 5</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/3.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/canal-5.gif</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]CANAL 5 HD</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]CANAL 5 HD</title> 
 <link>http://158.69.52.43:8000/live/elecuy/3844/3860.ts</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/canal-5-hd.gif</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Azteca 7</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Azteca 7</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/5.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/azteca-7.gif</thumbnail>
 <fanart></fanart>
@@ -133,21 +133,21 @@ channel>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]CNN Español</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]CNN Español</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/197.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/3y8liu5lz/cnn.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Distrito Comedia</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Distrito Comedia</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/38.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/distrito-comedia.gif</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Discovery Channel</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Discovery Channel</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/59.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/discovery-channel.gif</thumbnail>
 <fanart></fanart>
@@ -161,14 +161,14 @@ channel>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Discovery Civilization</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Discovery Civilization</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/65.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/discovery-civilization.gif</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Discovery Home & Health</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Discovery Home & Health</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/61.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/home-and-health.gif</thumbnail>
 <fanart></fanart>
@@ -177,35 +177,35 @@ channel>
 http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Discovery Science</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Discovery Science</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/64.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/discovery-science.gif</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Discovery Theater</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Discovery Theater</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/55.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/discovery-theater-hd.gif</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Discovery Turbo</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Discovery Turbo</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/66.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/discovery-turbo.gif</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Discovery World</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Discovery World</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/58.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/discovery-world-hd.gif</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]E! Entertainment</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]E! Entertainment</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/29.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/e-entertainment-television.gif</thumbnail>
 <fanart></fanart>
@@ -219,28 +219,28 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Fox Life</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Fox Life</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/37.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/fox-life.gif</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Glitz</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Glitz</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/36.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/glitz.gif</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]El Gourmet</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]El Gourmet</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/34.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://4.bp.blogspot.com/-oXOJKuGckoY/WgZOQqQxNrI/AAAAAAAACf4/Mju2LwwjBkMtlFCkw_BQHnDhtx4xvnFcACK4BGAYYCw/s320/greto.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]History Channel</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]History Channel</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/56.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/history-channel.gif</thumbnail>
 <fanart></fanart>
@@ -254,14 +254,14 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]H2</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]H2</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/183.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/h2.gif</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Hola Tv</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Hola Tv</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/24.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://4.bp.blogspot.com/-0OyY2kQq_H4/WgO4GIMOVAI/AAAAAAAACZw/_jXIDlf-An0fNMfaljoh2vmFH4iZFxkGACK4BGAYYCw/s1600/hola%2Btv.jpg</thumbnail>
 <fanart></fanart>
@@ -275,21 +275,21 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Life time</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Life time</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/63.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/lifetime.gif</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Nat Geo Mundo</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Nat Geo Mundo</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/2847.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://1.bp.blogspot.com/-65zvMV9Yghc/WgO3v0AYjmI/AAAAAAAACYw/mJSMjRT3b0U21t7a0B3W3YkJMSqHZKQQwCK4BGAYYCw/s1600/fsfk.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Nat Geo</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Nat Geo</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/62.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/natgeo.gif</thumbnail>
 <fanart></fanart>
@@ -303,63 +303,63 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Nat Geo Wild</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Nat Geo Wild</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/57.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/natgeo-wild.gif</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Mas Chic TV</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Mas Chic TV</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/26.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/mas-chic.gif</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Telemundo Internacional</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Telemundo Internacional</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/358.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/hugtu8h53/telemundo.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Telemundo</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Telemundo</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/111.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/hugtu8h53/telemundo.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]TL Novelas</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]TL Novelas</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/356.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s6.postimg.org/dpjos5rgx/tlnovelas-logo.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]TLC</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]TLC</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/67.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/tlc.gif</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]TVC</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]TVC</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/3506.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/tvc-cine-mexicano.gif</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]TVE</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]TVE</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/100.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://1.bp.blogspot.com/-cn9yRhNnUNE/WgO3mtglLpI/AAAAAAAACWw/hjbUr2c-QQAxAv9qZP7gRohSHpiSFnaCwCK4BGAYYCw/s1600/tve.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Univision</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Univision</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1455.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/4q7iegbt5/USDHFSUFH.jpg</thumbnail>
 <fanart></fanart>
@@ -373,7 +373,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Unicable</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Unicable</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/23.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/unicable.gif</thumbnail>
 <fanart></fanart>
@@ -387,7 +387,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]UniMas</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]UniMas</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/482.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/agxn52f5l/descarga.jpg</thumbnail>
 <fanart></fanart>
@@ -396,14 +396,14 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 -------------------------------
 
 <channel>
-<name>[COLOR orange]>>  [/COLOR][COLOR white]Peliculas y Series[/COLOR]</name>
+<name>[B][COLOR orange]>>[/COLOR][/B]  [COLOR white]Peliculas y Series[/COLOR]</name>
 <info>MegaPlay Premium</info>
 <thumbnail>https://s26.postimg.org/attoca6y1/maxresdefault.jpg</thumbnail>
 <fanart>https://i1.wp.com/www.edtuttors.com/wp-content/uploads/2017/10/MegaPlay-apk-1.jpg</fanart> 
 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]AMC</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]AMC</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/85.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/amc.gif</thumbnail>
 <fanart></fanart>
@@ -417,7 +417,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]AXN</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]AXN</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/20.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/axn.gif</thumbnail>
 <fanart></fanart>
@@ -431,14 +431,14 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Azteca cine</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Azteca cine</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/74.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/az-clic.gif</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Cinecanal</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Cinecanal</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/75.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/cinecanal-w.gif</thumbnail>
 <fanart></fanart>
@@ -452,14 +452,14 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Cinecanal+</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Cinecanal+</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/81.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/cinecanal-hd.gif</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Cinemax</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Cinemax</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/82.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/cinemax-o.gif</thumbnail>
 <fanart></fanart>
@@ -473,7 +473,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]DePelicula</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]DePelicula</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/79.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/de-pelicula.gif</thumbnail>
 <fanart></fanart>
@@ -487,7 +487,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Fox Internacional</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Fox Internacional</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/14.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/fox.gif</thumbnail>
 <fanart></fanart>
@@ -501,7 +501,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]FX</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]FX</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/18.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/fx.gif</thumbnail>
 <fanart></fanart>
@@ -515,7 +515,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Fox Action</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Fox Action</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/70.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/fox-action-e.gif</thumbnail>
 <fanart></fanart>
@@ -529,7 +529,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Fox Premium Series</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Fox Premium Series</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/69.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/fox-premium-series-e.gif</thumbnail>
 <fanart></fanart>
@@ -543,21 +543,21 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Fox Cinema</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Fox Cinema</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/72.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/fox-cinema.gif</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Fox Classics</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Fox Classics</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/73.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/fox-classics.gif</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Fox Movies</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Fox Movies</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/71.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/fox-movies.gif</thumbnail>
 <fanart></fanart>
@@ -571,7 +571,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]FXM</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]FXM</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/2450.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/fx-movies-hd.gif</thumbnail>
 <fanart></fanart>
@@ -585,7 +585,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Golden</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Golden</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/77.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/golden.gif</thumbnail>
 <fanart></fanart>
@@ -599,21 +599,21 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Golden Edge</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Golden Edge</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/84.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/golden-edge.gif</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]HBO</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]HBO</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/181.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/hbo-w.gif</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]HBO (op2)</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]HBO (op2)</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/3508.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/hbo-w.gif</thumbnail>
 <fanart></fanart>
@@ -627,7 +627,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]HBO 2</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]HBO 2</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/378.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/hbo-2.gif</thumbnail>
 <fanart></fanart>
@@ -641,77 +641,77 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]HBO Family</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]HBO Family</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/182.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/hbo-family-e.gif</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]HBO Plus</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]HBO Plus</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/377.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/hbo-plus-w.gif</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]HBO PLUS ESTE</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]HBO PLUS ESTE</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/180.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/hbo-plus-e.gif</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]HBO Signature</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]HBO Signature</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/224.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/hbo-signature.gif</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]HBO Signature (LA)</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]HBO Signature (LA)</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/3681.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/hbo-signature.gif</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]I-SAT</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]I-SAT</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/88.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/isat.gif</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Max Prime</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Max Prime</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/371.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/max-prime-e.gif</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]MAX Prime (op 2)</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]MAX Prime (op 2)</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/370.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/max-prime-w.gif</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Paramount</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Paramount</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/365.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/paramount-channel.gif</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Sony Entertainment Television</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Sony Entertainment Television</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/15.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/sony.gif</thumbnail>
 <fanart></fanart>
 </item> tvg-id="SonyEntertainmentTelevision.mx" tvg-name="Sony Entertainment Television MX" tvg-logo="" group-title="PELICULAS", 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Syfy</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Syfy</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/31.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/syfy.gif</thumbnail>
 <fanart></fanart>
@@ -725,14 +725,14 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Space</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Space</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/80.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/space.gif</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Space (La)</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Space (La)</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/86.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/space-hd.gif</thumbnail>
 <fanart></fanart>
@@ -746,35 +746,35 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Studio Universal</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Studio Universal</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/87.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/studio-universal.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]TBS</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]TBS</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/39.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/tbs.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]TCM</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]TCM</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/89.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/tcm.gif</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]TNT</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]TNT</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/76.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/tnt.gif</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]TNT (LA)</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]TNT (LA)</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/83.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/tnt.gif</thumbnail>
 <fanart></fanart>
@@ -788,7 +788,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]TNT Series</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]TNT Series</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/33.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/tnt-series.gif</thumbnail>
 <fanart></fanart>
@@ -802,7 +802,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Universal Channel</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Universal Channel</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/17.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/universal-channel.gif</thumbnail>
 <fanart></fanart>
@@ -816,7 +816,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Warner Channel</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Warner Channel</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/16.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/warner-channel.gif</thumbnail>
 <fanart></fanart>
@@ -832,118 +832,118 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 -------------------------------
 
 <channel>
-<name>[COLOR orange]>>  [/COLOR][COLOR white]Series 24H[/COLOR]</name>
+<name>[B][COLOR orange]>>[/COLOR][/B]  [COLOR white]Series 24H[/COLOR]</name>
 <info>MegaPlay Premium</info>
 <thumbnail>https://s26.postimg.org/dnwtpptop/1900.jpg</thumbnail>
 <fanart>https://i1.wp.com/www.edtuttors.com/wp-content/uploads/2017/10/MegaPlay-apk-1.jpg</fanart> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Dr House</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Dr House</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/2267.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://158.69.52.43:8000/images/2267.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Dragon Ball SUPER</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Dragon Ball SUPER</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/3061.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://158.69.52.43:8000/images/3061.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]El Mentalista</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]El Mentalista</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/2403.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://158.69.52.43:8000/images/1403.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Escandalosos</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Escandalosos</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/2678.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://158.69.52.43:8000/images/2678.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Futurama</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Futurama</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/3007.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://158.69.52.43:8000/images/3007.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Game Of Trones</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Game Of Trones</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1870.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://158.69.52.43:8000/images/1870.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Hora De Aventura</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Hora De Aventura</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/2466.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://158.69.52.43:8000/images/2466.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]La Teoria Del Big Bang</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]La Teoria Del Big Bang</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/2000.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://158.69.52.43:8000/images/2000.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Los Simpson</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Los Simpson</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1900.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://158.69.52.43:8000/images/1900.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Malcolm El De En Medio</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Malcolm El De En Medio</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/3494.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://158.69.52.43:8000/images/3494.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Padre De Familia</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Padre De Familia</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1872.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://158.69.52.43:8000/images/1872.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]South Park</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]South Park</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/2165.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://158.69.52.43:8000/images/2165.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]The Flash</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]The Flash</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/2331.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://158.69.52.43:8000/images/2331.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]The Walking Dead</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]The Walking Dead</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1876.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://158.69.52.43:8000/images/1876.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Un Agente De Familia</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Un Agente De Familia</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/2100.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://158.69.52.43:8000/images/2100.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Un Show Más</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Un Show Más</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1948.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://158.69.52.43:8000/images/1948.jpg</thumbnail>
 <fanart></fanart>
@@ -952,7 +952,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 -------------------------------
 
 <channel>
-<name>[COLOR orange]>>  [/COLOR][COLOR white]Deportes[/COLOR]</name>
+<name>[B][COLOR orange]>>[/COLOR][/B]  [COLOR white]Deportes[/COLOR]</name>
 <info>MegaPlay Premium</info>
 <thumbnail>https://s26.postimg.org/ykt1uf9q1/712_proximostorneosdeverano2017_2584.jpg</thumbnail>
 <fanart>https://i1.wp.com/www.edtuttors.com/wp-content/uploads/2017/10/MegaPlay-apk-1.jpg</fanart> 
@@ -962,7 +962,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]DeporTV AR</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]DeporTV AR</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1027.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/5v12d3kbt/deportv.jpg</thumbnail>
 <fanart></fanart>
@@ -976,35 +976,35 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]TNT SPORTS</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]TNT SPORTS</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/3395.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/9ree97fmx/tntsport.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]FOX SPORTS PREMIUM</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]FOX SPORTS PREMIUM</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/3396.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/g53hcen2x/Foxsport.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]GOL TV</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]GOL TV</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/2848.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/glkk4q2gp/goltvv.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Gol TV (op 2)</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Gol TV (op 2)</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1066.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/glkk4q2gp/goltvv.jpg</thumbnail>
 <fanart></fanart>
 </item> tvg-id="GolTV.pe" tvg-name="Gol TV PE" tvg-logo="" group-title="DEPORTES",
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]CNT SPORTS</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]CNT SPORTS</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/4205.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/t991p1peh/cntsport.jpg</thumbnail>
 <fanart></fanart>
@@ -1039,7 +1039,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]ESPN AR</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]ESPN AR</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/2858.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/kqzlkq615/espn_1.jpg</thumbnail>
 <fanart></fanart>
@@ -1053,7 +1053,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]ESPN 2 AR</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]ESPN 2 AR</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/4049.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/clhjmkx7t/espn_2.jpg</thumbnail>
 <fanart></fanart>
@@ -1067,7 +1067,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]ESPN 3 AR</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]ESPN 3 AR</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/2860.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/bvyra8c3t/espn3.jpg</thumbnail>
 <fanart></fanart>
@@ -1081,56 +1081,56 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]ESPN DEPORTES</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]ESPN DEPORTES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/3990.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/vdteq61bt/espn_deportes.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]ESPN MX</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]ESPN MX</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/91.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/kqzlkq615/espn_1.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]ESPN 2 MX</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]ESPN 2 MX</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/92.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/clhjmkx7t/espn_2.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]ESPN 3 MX</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]ESPN 3 MX</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/93.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/bvyra8c3t/espn3.jpg</thumbnail>
 <fanart></fanart>
 </item> tvg-id="ESPN3.mx" tvg-name="ESPN 3 MX" tvg-logo="" group-title="DEPORTES",
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]ESPN+ MX</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]ESPN+ MX</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/110.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/agx6lhnvd/espn.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Fox Deportes US</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Fox Deportes US</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/2844.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/g53hcen2x/Foxsport.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Fox Sports 1 CL</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Fox Sports 1 CL</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1746.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/g53hcen2x/Foxsport.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Fox Sports 1 AR</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Fox Sports 1 AR</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1820.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/g53hcen2x/Foxsport.jpg</thumbnail>
 <fanart></fanart>
@@ -1144,7 +1144,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Fox Sports 2 AR</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Fox Sports 2 AR</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1821.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/imf8joep5/Foxsport_2.jpg</thumbnail>
 <fanart></fanart>
@@ -1158,49 +1158,49 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Fox Sports 3 AR</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Fox Sports 3 AR</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1822.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/g53hcf2ih/Foxsport_3.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Fox Sports MX</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Fox Sports MX</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/94.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/g53hcen2x/Foxsport.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Fox Sports 2 MX</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Fox Sports 2 MX</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/95.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/imf8joep5/Foxsport_2.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Fox Sports 3 MX</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Fox Sports 3 MX</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/4140.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/g53hcf2ih/Foxsport_3.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Fox Sports VE</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Fox Sports VE</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1823.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/g53hcen2x/Foxsport.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Box Nation</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Box Nation</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/204.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://static.iptv-epg.com/uk/BoxNation.uk.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Canal F1</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Canal F1</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/90.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s6.postimg.org/atf1auf69/F1-3d.png</thumbnail>
 <fanart></fanart>
@@ -1214,154 +1214,154 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Cdf Basico CL</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Cdf Basico CL</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1729.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s6.postimg.org/ln7py3w41/cdf.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Cdf premiun CL</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Cdf premiun CL</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1819.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s6.postimg.org/ln7py3w41/cdf.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]CDO PREMIUM (CH)</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]CDO PREMIUM (CH)</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1779.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/ghuviikrd/cdo.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]DIRECTV SPORT</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]DIRECTV SPORT</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1017.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/eq1wnmojt/Directv.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]DIRECTV SPORTS 2</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]DIRECTV SPORTS 2</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/2863.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/cy8xsqsc9/Directv2.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Estadio CDF</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Estadio CDF</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1729.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://p4.zdassets.com/hc/settings_assets/240700/200018186/br5kwKteXLu0JhEwmHmrGw-ecdf_3.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/416.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://p4.zdassets.com/hc/settings_assets/240700/200018186/br5kwKteXLu0JhEwmHmrGw-ecdf_3.png</thumbnail>
 <fanart>Estadio CDF HD</fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Estadio CDF 2</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Estadio CDF 2</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/4319.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://p4.zdassets.com/hc/settings_assets/240700/200018186/br5kwKteXLu0JhEwmHmrGw-ecdf_3.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Estadio CDF 2 HD</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Estadio CDF 2 HD</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/4318.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://p4.zdassets.com/hc/settings_assets/240700/200018186/br5kwKteXLu0JhEwmHmrGw-ecdf_3.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Eurosports 1 FR</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Eurosports 1 FR</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1832.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://static.iptv-epg.com/fr/Eurosport1.fr.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Eurosports 2 FR</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Eurosports 2 FR</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1831.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://static.iptv-epg.com/fr/Eurosport2.fr.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Fighting</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Fighting</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/165.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://forounivers.com/uploads/monthly_2017_03/large.58dddac664b8b_FightingSportsNetwork.png.8a9abdf4cb48a24189775128a1cf45e1.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Fight Network</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Fight Network</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/2842.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://forounivers.com/uploads/monthly_2017_04/large.FAITING2.png.85fdff54cc5511de0d207dadec7b90f4.png</thumbnail>
 <fanart></fanart>
 </item> tvg-id="FightNetwork.ca" tvg-name="Fight Network" tvg-logo="" group-title="DEPORTES",
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Gol Peru</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Gol Peru</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/488.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://golperu.s3.amazonaws.com/assets/img/LogoGolPeru-footer.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]WinSports CO</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]WinSports CO</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1036.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/j33pl3pgp/tetet.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]GOLF LATINOAMERICA</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]GOLF LATINOAMERICA</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/4141.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]HMX</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]HMX</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/13.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s6.postimg.org/hqdt140up/hmx.png</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Manchester United Tv</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Manchester United Tv</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/3991.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://158.69.52.43:8000/imagenes/3991.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Movistar Fórmula1 ES</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Movistar Fórmula1 ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/431.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s6.postimg.org/atf1auf69/F1-3d.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Movistar Fútbol ES</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Movistar Fútbol ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1830.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://158.69.52.43:8000/imagenes/1830.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Movistar Moto GP ES</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Movistar Moto GP ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/432.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://static.iptv-epg.com/es/MovistarMotoGP.es.png</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]NBA TV</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]NBA TV</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/347.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://static.iptv-epg.com/us/NBATV.us.png</thumbnail>
 <fanart></fanart>
@@ -1375,119 +1375,119 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Real Madrid TV ES</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Real Madrid TV ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1786.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://static.iptv-epg.com/es/RealMadridTV.es.png</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Sky Bundesliga 1 DE</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Sky Bundesliga 1 DE</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1781.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://158.69.52.43:8000/imagenes/1781.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Sport TV1 PT</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Sport TV1 PT</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1769.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/lgidx5jg9/sporttv.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Sport TV2 PT</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Sport TV2 PT</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1768.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/lgidx5jg9/sporttv.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Sport TV3 PT</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Sport TV3 PT</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1767.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/lgidx5jg9/sporttv.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Sport TV4 PT</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Sport TV4 PT</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1770.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/lgidx5jg9/sporttv.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Sport TV5 PT</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Sport TV5 PT</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1771.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/lgidx5jg9/sporttv.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]TDN MX</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]TDN MX</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/167.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/w3c72kzbd/tdn.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Tele Deporte ES</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Tele Deporte ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/424.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/k1gt8fxsp/Tdp.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]TVC DEPORTES</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]TVC DEPORTES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/3507.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/edaihkgll/tvcdepo.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Univision Deportes</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Univision Deportes</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1754.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/h7dnv0y7d/univicion_deportes.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Univision Tdn</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Univision Tdn</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/164.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/a45sff0hl/univicion_tdc.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Univision Deportes HD</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Univision Deportes HD</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1449.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/h7dnv0y7d/univicion_deportes.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]CHIVAS TV SD</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]CHIVAS TV SD</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/415.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/atokrmvuh/chivas.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]CHIVAS TV SD (op 2)</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]CHIVAS TV SD (op 2)</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1605.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/atokrmvuh/chivas.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]CHIVAS TV HD</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]CHIVAS TV HD</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1753.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/atokrmvuh/chivas.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]CHIVAS TV FHD</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]CHIVAS TV FHD</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/3267.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/atokrmvuh/chivas.jpg</thumbnail>
 <fanart></fanart>
@@ -1496,28 +1496,28 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 -------------------------------
 
 <channel>
-<name>[COLOR orange]>>  [/COLOR][COLOR white]Musica[/COLOR]</name>
+<name>[B][COLOR orange]>>[/COLOR][/B]  [COLOR white]Musica[/COLOR]</name>
 <info>MegaPlay Premium</info>
 <thumbnail>https://s26.postimg.org/gurd9dofd/music-wallpaper-6418-6612-hd-wallpapers.jpg</thumbnail>
 <fanart>https://i1.wp.com/www.edtuttors.com/wp-content/uploads/2017/10/MegaPlay-apk-1.jpg</fanart> 
 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Bandamax MX</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Bandamax MX</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/109.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/ssoalrst5/Bandamax.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]HTV AR</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]HTV AR</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/375.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/n382217dl/GFFDG.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]MTV</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]MTV</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/105.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/o6s6dg255/MFDAS.jpg</thumbnail>
 <fanart></fanart>
@@ -1531,35 +1531,35 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]MTV BASE</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]MTV BASE</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/3716.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/o5i8kkard/DFS.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]MTV CLASSIC</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]MTV CLASSIC</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/3715.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/exq03vquh/GGGSD.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]MTV DANCE</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]MTV DANCE</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/3714.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/pyl58do2x/YREY.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]MTV HITS</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]MTV HITS</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/106.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/wca8blio9/JFJ.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]MTV LIVE</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]MTV LIVE</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/102.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/6thvylm9l/NBNBB.jpg</thumbnail>
 <fanart></fanart>
@@ -1573,42 +1573,42 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]MTV ROCK</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]MTV ROCK</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/3713.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/c4wsjc37d/ZXZX.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]MUSIC CHOICE</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]MUSIC CHOICE</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/4042.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/99jpcyc7d/ASDE.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]NRJ HITS</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]NRJ HITS</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/4045.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/v8q4068h5/GFGHY.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]ONE TV</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]ONE TV</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/4043.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/ur9pfjfbt/yyryryr_(2).jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]PX TV</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]PX TV</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/96.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/ukh9gq1w9/PIO.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Ritmoson MX</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Ritmoson MX</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/108.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/h3kaxt9k9/JHGH.jpg</thumbnail>
 <fanart></fanart>
@@ -1622,7 +1622,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Telehit MX</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Telehit MX</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/103.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/3zeql5rt5/TYGY.jpg</thumbnail>
 <fanart></fanart>
@@ -1636,14 +1636,14 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Teleritmo</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Teleritmo</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/4047.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/qzldxzxi1/ERT.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]TIGO MUSIC</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]TIGO MUSIC</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/4041.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/hgbp40mp5/HYHYHHH.jpg</thumbnail>
 <fanart></fanart>
@@ -1657,42 +1657,42 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]VH1</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]VH1</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/104.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/ge1ilggqh/JJGJGJ.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]VH1 Classic</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]VH1 Classic</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/107.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/oi9mqr0qx/GHYTF.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Eska Best Music</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Eska Best Music</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/4027.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/9z2hpcurd/ClickHandler.ashx.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Eska Party</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Eska Party</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/4028.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/9z2hpcurd/ClickHandler.ashx.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Eska Polo Party</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Eska Polo Party</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/4030.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/9z2hpcurd/ClickHandler.ashx.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Eska Vox</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Eska Vox</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/4029.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/9z2hpcurd/ClickHandler.ashx.jpg</thumbnail>
 <fanart></fanart>
@@ -1701,83 +1701,83 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 -------------------------------
 
 <channel>
-<name>[COLOR orange]>>  [/COLOR][COLOR white]Infantiles[/COLOR]</name>
+<name>[B][COLOR orange]>>[/COLOR][/B]  [COLOR white]Infantiles[/COLOR]</name>
 <info>MegaPlay Premium</info>
 <thumbnail>https://s26.postimg.org/7mz4smzcp/backyardigansjpg-26fa44d8eaac1879.jpg</thumbnail>
 <fanart>https://i1.wp.com/www.edtuttors.com/wp-content/uploads/2017/10/MegaPlay-apk-1.jpg</fanart> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Baby TV</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Baby TV</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/408.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/wrl1lt0op/trasuchi.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Boomerang</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Boomerang</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/52.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/qa6ec7paf/bomby.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Cartoon Network</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Cartoon Network</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/50.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/pyoxz1gfr/cartonnet.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Cartoon Network HD</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Cartoon Network HD</title> 
 <link>http://158.69.52.43:8000/live/elecuy/3844/126.ts</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/cartoon-network.gif</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Discovery Kids</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Discovery Kids</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/42.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/yw5emvull/pugf.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Disney Junior</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Disney Junior</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/44.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/o4biiq1hl/disney_junior.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Disney</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Disney</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/46.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/3mr55hh9z/disnch.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Disney XD</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Disney XD</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/51.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/vkas4ihh5/disneixd.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Fox Family</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Fox Family</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/186.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/g1dx5tvxj/fgfd.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]NAT GEO KIDS</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]NAT GEO KIDS</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/3280.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/x1wteiw47/fvg.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Nickelodeon</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Nickelodeon</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/49.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/jxr91ubs7/nichelodium.jpg</thumbnail>
 <fanart></fanart>
@@ -1791,14 +1791,14 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Nickelodeon 2</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Nickelodeon 2</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/48.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/88n9e0iaf/nick2.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Nick Jr</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Nick Jr</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/45.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/88n9dvsjb/nikjd.jpg</thumbnail>
 <fanart></fanart>
@@ -1812,14 +1812,14 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]NICK TOONS</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]NICK TOONS</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/47.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/rqhwtsulz/frdf.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]TiiN</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]TiiN</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/53.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/3zijbpwzr/tiin.jpg</thumbnail>
 <fanart></fanart>
@@ -1833,7 +1833,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Tooncast</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Tooncast</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/54.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/hgfhujpav/fdfdf.jpg</thumbnail>
 <fanart></fanart>
@@ -1842,27 +1842,27 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 -------------------------------
 
 <channel>
-<name>[COLOR orange]>>  [/COLOR][COLOR white]Tv Uruguay[/COLOR]</name>
+<name>[B][COLOR orange]>>[/COLOR][/B]  [COLOR white]Tv Uruguay[/COLOR]</name>
 <info>MegaPlay Premium</info>
 <thumbnail>https://s26.postimg.org/mvp26g3bt/Uruguay-icon.jpg</thumbnail>
 <fanart>https://i1.wp.com/www.edtuttors.com/wp-content/uploads/2017/10/MegaPlay-apk-1.jpg</fanart> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]CANAL 4</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]CANAL 4</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/413.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s18.postimg.org/e6qpnrr61/canal_4.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]CANAL 5</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]CANAL 5</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1599.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/4l2wu32o7/television_nacional.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Canal 7</title>
+<title>[B][COLOR orange]>>  [/COLOR][/B]Canal 7</title>
 <link>$doregex[get-url]</link>
 <regex>
 <name>get-url</name>
@@ -1882,14 +1882,14 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]CANAL 10</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]CANAL 10</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/414.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/u3v97cel3/canal_10.jpg</thumbnail>
 <fanart></fanart>
 </item>  
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]CANAL 12</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]CANAL 12</title> 
 <link>http://api.new.livestream.com/accounts/13567583/events/6415731/live.ts</link> 
 <thumbnail>https://s5.postimg.org/osgcmn087/tele.jpg</thumbnail>
 <fanart></fanart>
@@ -1936,7 +1936,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]VTV SD</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]VTV SD</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1450.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/nderxzz5z/vtv.jpg</thumbnail>
 <fanart></fanart>
@@ -1950,7 +1950,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>  
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]VTV +</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]VTV +</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/494.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/48bio8zxj/vtv_2_B.jpg</thumbnail>
 <fanart></fanart>
@@ -1959,7 +1959,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 -------------------------------
 
 <channel>
-<name>[COLOR orange]>>  [/COLOR][COLOR white]Tv Argentina[/COLOR]</name>
+<name>[B][COLOR orange]>>[/COLOR][/B]  [COLOR white]Tv Argentina[/COLOR]</name>
 <info>MegaPlay Premium</info>
 <thumbnail>https://s26.postimg.org/hka5lojt5/Argentina-icon.jpg</thumbnail>
 <fanart>https://i1.wp.com/www.edtuttors.com/wp-content/uploads/2017/10/MegaPlay-apk-1.jpg</fanart> 
@@ -1967,14 +1967,14 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]America 2</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]America 2</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1019.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s10.postimg.org/d8zwts4gp/america_2.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]America 24</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]America 24</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1026.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s10.postimg.org/uz1letabt/a24.jpg</thumbnail>
 <fanart></fanart>
@@ -1988,7 +1988,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]C5N</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]C5N</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1024.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s10.postimg.org/8pno879pl/c5n.jpg</thumbnail>
 <fanart></fanart>
@@ -2002,21 +2002,21 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Canal 9</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Canal 9</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1023.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s10.postimg.org/aro5mj7pl/el_9.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Canal 9 (op 2)</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Canal 9 (op 2)</title> 
 <link>http://dwgoed11hdvfh.cloudfront.net/c9/smil:live.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 4.3; Nexus 7 Build/JSS15Q)</link>
 <thumbnail>https://s10.postimg.org/aro5mj7pl/el_9.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]El Trece</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]El Trece</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1020.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s10.postimg.org/ix67kp3o9/el_trece.jpg</thumbnail>
 <fanart></fanart>
@@ -2031,14 +2031,14 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Telefe</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Telefe</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1021.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s10.postimg.org/53huvmnxl/telefe.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Todo Noticias</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Todo Noticias</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1025.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/f5sdvlb3d/yyryryr_(1).jpg</thumbnail>
 <fanart></fanart>
@@ -2052,28 +2052,28 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Canal 26</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Canal 26</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1033.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s10.postimg.org/6ijfkdzbd/canal_26.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Cronica TV</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Cronica TV</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1028.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s10.postimg.org/aewrgd4vd/cronica.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Ciudad Magazine</title>
+<title>[B][COLOR orange]>>  [/COLOR][/B]Ciudad Magazine</title>
 <link>http://prepublish.f.qaotic.net/f01/ngrp:magazine_live01-100083_all/chunklist_b346000.m3u8|Referer=http://vmf.edge-apps.net&User-Agent=Mozilla/5.0</link>
 <thumbnail>http://1.bp.blogspot.com/-cZcn_5Fz-Nw/WdaNiTlbleI/AAAAAAAABkg/XvBWTxapTOQQO943BlgRTenMuTpGMOT3QCK4BGAYYCw/s1600/Ciudad%2BMagazing.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]TV Publica</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]TV Publica</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1022.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s10.postimg.org/rffnp2521/Tvp.jpg</thumbnail>
 <fanart></fanart>
@@ -2082,349 +2082,349 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 -------------------------------
 
 <channel>
-<name>[COLOR orange]>>  [/COLOR][COLOR white]Tv España[/COLOR]</name>
+<name>[B][COLOR orange]>>[/COLOR][/B]  [COLOR white]Tv España[/COLOR]</name>
 <info>MegaPlay Premium</info>
 <thumbnail>https://s26.postimg.org/67xk3y0uh/HTB17w1pHXXXXXXrXXXX760XFXXXg.jpg</thumbnail>
 <fanart>https://i1.wp.com/www.edtuttors.com/wp-content/uploads/2017/10/MegaPlay-apk-1.jpg</fanart> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]#0</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]#0</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/3676.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://1.bp.blogspot.com/-mLYazT7W2vw/WkMI2SCOHpI/AAAAAAAAClM/klp_ak2r8IUX7I-w3UN4PuI_lDuOzsxbgCK4BGAYYCw/s1600/ox.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]A&E ES</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]A&E ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/443.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/gz9no7d2v/aye.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]AMC ES</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]AMC ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/468.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/g9qvbv7ef/amc.jpg</thumbnail>
 <fanart></fanart>
 </item>  
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]AXN ES</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]AXN ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/466.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/ug6m73pzb/axn.jpg</thumbnail>
 <fanart></fanart>
 </item>  tvg-id="AXN.es" tvg-name="AXN ES" tvg-logo="" group-title="ESPAÑA",
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]AXN White ES</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]AXN White ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/465.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/6ge9ckx5z/axn_white.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]A3 SERIES</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]A3 SERIES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/3236.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/xzsjwsq3b/a3series.jpg</thumbnail>
 <fanart></fanart>
 </item>  
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Antena 3 ES</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Antena 3 ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/467.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/8xq0juwhz/Antena_3.jpg</thumbnail>
 <fanart></fanart>
 </item>   
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Canal 24H ES</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Canal 24H ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1063.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/e56iasl7b/24he.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Canal Cocina ES</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Canal Cocina ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/438.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/5mx26i4ev/cocina.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]CAZA Y PESCA</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]CAZA Y PESCA</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/3675.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/6p78p102v/casaypescaso.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Clan TVE ES</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Clan TVE ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1065.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/g0xvzhhd3/clan.jpg</thumbnail>
 <fanart></fanart>
 </item>  
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Crimen Investigation</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Crimen Investigation</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/3712.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/ju8ypxcyf/cries.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Cuatro ES</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Cuatro ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/456.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/tsht9bnqx/cachinopo.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Tele Cinco ES</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Tele Cinco ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/444.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/mnfyf5ml3/canal_5.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Discovery Channel ES</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Discovery Channel ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/437.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/5fu1u0zyf/discoverito.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Factoría de Ficción ES</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Factoría de Ficción ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1064.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/5mx26iz9z/fdf.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Fox Life ES</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Fox Life ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/454.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/iv11cwwdz/foxlife.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Fox ES</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Fox ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/455.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/gz9nocajr/fox.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Historia ES</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Historia ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1451.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/ncyqrln5j/historia.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Hollywood ES</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Hollywood ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/453.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/mnfyf8ubr/holliwoddersss.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]La 1 ES</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]La 1 ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/452.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/nzv6p16ux/secdf2_2.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]La 2 ES</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]La 2 ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/451.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/bl8eop7mx/secdf2_1.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]La Sexta ES</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]La Sexta ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/450.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/6t5nisxg7/LA_SEXTA.jpg</thumbnail>
 <fanart></fanart>
 </item>  
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Mega ES</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Mega ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/449.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/c0m59u1lz/mega.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Movistar Acción ES</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Movistar Acción ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/464.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/r9c2ngidz/accion.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Movistar Comedia ES</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Movistar Comedia ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/463.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/4kmvnytbb/comediamovi.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Movistar DCine ES</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Movistar DCine ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/462.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/848tds3qv/dcine.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Movistar Deportes 1</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Movistar Deportes 1</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/441.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/oj7c3tvlj/depo1.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Paramount Channel ES</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Paramount Channel ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/447.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/5bk770nhz/paramount.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]SyFy ES</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]SyFy ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/446.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/i2yddihuf/syfy.jpg</thumbnail>
 <fanart></fanart>
 </item>  
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]TCM ES</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]TCM ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/445.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/kx1iqyrqf/tcm.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Odisea ES</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Odisea ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/426.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/q8gfbnqnr/odisea.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Movistar Deportes 2</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Movistar Deportes 2</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/3674.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/xqzkkjadj/depo2.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Movistar Estrenos ES</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Movistar Estrenos ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/461.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/8h07jzgvr/estrenomovi.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Movistar Golf ES</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Movistar Golf ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/440.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/rdahh9ic7/golf.jpg</thumbnail>
 <fanart></fanart>
 </item>  
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Movistar Series ES</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Movistar Series ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/459.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/u4tr7njd3/series1.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Movistar Series XTRA ES</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Movistar Series XTRA ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/458.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/djm4s97rb/xtr.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Movistar Xtra ES</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Movistar Xtra ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/457.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/vaxr6mn53/xtra.jpg</thumbnail>
 <fanart></fanart>
 </item>  
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Nat Geo Wild ES</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Nat Geo Wild ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/430.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/tqntuvmwn/nachowilstors.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]National Geographic ES</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]National Geographic ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/429.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/usy0dfdfr/national_geografica.jpg</thumbnail>
 <fanart></fanart>
 </item>  
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Neox ES</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Neox ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/448.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/xa9rkp51z/neox.jpg</thumbnail>
 <fanart></fanart>
 </item>  
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Nick Jr ES</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Nick Jr ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/428.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/88n9dvsjb/nikjd.jpg</thumbnail>
 <fanart></fanart>
 </item>  
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Nickelodeon ES</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Nickelodeon ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/427.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/jxr91ubs7/nichelodium.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Disney Channel ES</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Disney Channel ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/436.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/3mr55hh9z/disnch.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Disney Junior ES</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Disney Junior ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/435.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/o4biiq1hl/disney_junior.jpg</thumbnail>
 <fanart></fanart>
 </item>  
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Disney XD ES</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Disney XD ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/434.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/vkas4ihh5/disneixd.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Canal Panda ES</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Canal Panda ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/425.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/vz6lpn6g7/panda.jpg</thumbnail>
 <fanart></fanart>
 </item>  
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Viajar ES</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Viajar ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/420.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/fcp1gqszr/viajar.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Toros ES</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Toros ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/439.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/hsquuf3av/toros.jpg</thumbnail>
 <fanart></fanart>
@@ -2433,48 +2433,48 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 -------------------------------
 
 <channel>
-<name>[COLOR orange]>>  [/COLOR][COLOR white]Tv Mexico[/COLOR]</name>
+<name>[B][COLOR orange]>>[/COLOR][/B]  [COLOR white]Tv Mexico[/COLOR]</name>
 <info>MegaPlay Premium</info>
 <thumbnail>https://s26.postimg.org/6xgcgato9/Mexico-icon.jpg</thumbnail>
 <fanart>https://i1.wp.com/www.edtuttors.com/wp-content/uploads/2017/10/MegaPlay-apk-1.jpg</fanart> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]A+</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]A+</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/2281.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/s4fwmnlg9/hhgff.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]ADN 40</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]ADN 40</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/9.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/adn-40.gif</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]AZTECA CLIC </title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]AZTECA CLIC </title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/101.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/az-clic.gif</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Azteca mundo</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Azteca mundo</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/40.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/az-mundo.gif</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Azteca Corazon</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Azteca Corazon</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/27.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s6.postimg.org/uq24hgnkh/azcorazon.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Canal 5</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Canal 5</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/3.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/canal-5.gif</thumbnail>
 <fanart></fanart>
@@ -2488,7 +2488,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Azteca 7</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Azteca 7</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/5.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/azteca-7.gif</thumbnail>
 <fanart></fanart>
@@ -2502,14 +2502,14 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Canal 11</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Canal 11</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/7.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/once-tv.gif</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Azteca 13</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Azteca 13</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/8.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s6.postimg.org/jkv8wld8x/azteca-13-hd.png</thumbnail>
 <fanart></fanart>
@@ -2523,14 +2523,14 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Efekto Tv</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Efekto Tv</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/190.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/efektotv.gif</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Foro Tv</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Foro Tv</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/4.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/foro-tv.gif</thumbnail>
 <fanart></fanart>
@@ -2544,14 +2544,14 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Gala TV</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Gala TV</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/4036.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/gala-tv.gif</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Galavision</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Galavision</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/6.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s6.postimg.org/f799y34nl/gala_tv_(1).png</thumbnail>
 <fanart></fanart>
@@ -2565,14 +2565,14 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Imagen Tv</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Imagen Tv</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/3535.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/imagen-television.gif</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Las Estrellas</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Las Estrellas</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/2.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/c/c5/LOGO-LAS-ESTRELLAS.png/revision/latest?cb=20160901194528</thumbnail>
 <fanart></fanart>
@@ -2586,56 +2586,56 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Las Estrellas -1</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Las Estrellas -1</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1071.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s6.postimg.org/6hc6x8n69/canaldelasestrellas_-2011.png</thumbnail>
 <fanart></fanart>
 </item> vg-id="LasEstrellas.mx" tvg-name="Las Estrellas -1" tvg-logo="" group-title="MEXICO",
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Milenio</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Milenio</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/98.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s6.postimg.org/uh955a05t/Milenio_Television_Logo.png</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Multimedios</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Multimedios</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/12.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s6.postimg.org/pk05xwnkh/multimedios.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Multimedios Laguna</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Multimedios Laguna</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/4048.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s6.postimg.org/pk05xwnkh/multimedios.png</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Multimedios Plus</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Multimedios Plus</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/367.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s6.postimg.org/pk05xwnkh/multimedios.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]OchoTv</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]OchoTv</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1607.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s6.postimg.org/pq0l2olzl/8tv.png</thumbnail>
 <fanart></fanart>
 </item> g-id="Teleocho.ar" tvg-name="OCHOTV" tvg-logo="" group-title="MEXICO",
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]TeleVer</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]TeleVer</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/3151.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://158.69.52.43:8000/imagenes/3151.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Televisa MTY</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Televisa MTY</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/4037.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://158.69.52.43:8000/imagenes/4037.jpg</thumbnail>
 <fanart></fanart>
@@ -2645,70 +2645,70 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 -------------------------------
 
 <channel>
-<name>[COLOR orange]>>  [/COLOR][COLOR white]Tv Chile[/COLOR]</name>
+<name>[B][COLOR orange]>>[/COLOR][/B]  [COLOR white]Tv Chile[/COLOR]</name>
 <info>MegaPlay Premium</info>
 <thumbnail>https://s26.postimg.org/7zqiysmrd/Chile-icon.jpg</thumbnail>
 <fanart>https://i1.wp.com/www.edtuttors.com/wp-content/uploads/2017/10/MegaPlay-apk-1.jpg</fanart> 
 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Canal 13 CL</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Canal 13 CL</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1825.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/s35ystji1/gdgdg.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Chile vision HD CL</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Chile vision HD CL</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1726.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/gqtdb133d/sdff.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]CNN Chile</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]CNN Chile</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/2303.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/pyllrrs61/Logo_cnnchile.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]LA RED</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]LA RED</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1049.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/c4x933peh/bhhh.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Mega CL</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Mega CL</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1725.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/ivdqc4k5l/sfsfs.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Teletrack</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Teletrack</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1780.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/7j14ucym1/fasfa.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]TV CHILE</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]TV CHILE</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/3449.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/ojk130w7t/tftf.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]TVN</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]TVN</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1727.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/9au3p87o9/gtgyyy.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]VTV</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]VTV</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/4207.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/j854ibxah/vggg.jpg</thumbnail>
 <fanart></fanart>
@@ -2717,62 +2717,62 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 -------------------------------
 
 <channel>
-<name>[COLOR orange]>>  [/COLOR][COLOR white]Tv Colombia[/COLOR]</name>
+<name>[B][COLOR orange]>>[/COLOR][/B]  [COLOR white]Tv Colombia[/COLOR]</name>
 <info>MegaPlay Premium</info>
 <thumbnail>https://s26.postimg.org/bw3uusuw9/Colombia-icon.jpg</thumbnail>
 <fanart>https://i1.wp.com/www.edtuttors.com/wp-content/uploads/2017/10/MegaPlay-apk-1.jpg</fanart> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Caracol Co</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Caracol Co</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1038.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/qvudd28ah/mnkmnjy.jpg</thumbnail>
 <fanart></fanart>
 </item>  
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Caracol INT</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Caracol INT</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1039.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/qvudd28ah/mnkmnjy.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]El Tiempo CO</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]El Tiempo CO</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1041.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/5yy58dn49/gfgfg.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]RCN CO</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]RCN CO</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1035.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/drot0bqih/hfhfh.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]RCN Nuestra tele</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]RCN Nuestra tele</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1037.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/dexeu8fzd/uryui.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Rcn Novelas CO</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Rcn Novelas CO</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/418.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/idkx8smd5/utu.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Teleantioquia CO</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Teleantioquia CO</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1044.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/l7o2m5oih/canrecenl_(2).jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Trece CL</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Trece CL</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/487.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/glrydsnjt/canrecenl_(1).jpg</thumbnail>
 <fanart></fanart>
@@ -2782,7 +2782,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 -------------------------------
 
 <channel>
-<name>[COLOR orange]>>  [/COLOR][COLOR white]Adultos xxx[/COLOR]</name>
+<name>[B][COLOR orange]>>[/COLOR][/B]  [COLOR white]Adultos xxx[/COLOR]</name>
 <info>MegaPlay Premium</info>
 <thumbnail>https://s26.postimg.org/x20extetl/ghfffx.jpg</thumbnail>
 <fanart>https://i1.wp.com/www.edtuttors.com/wp-content/uploads/2017/10/MegaPlay-apk-1.jpg</fanart> 
@@ -2796,28 +2796,28 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Sextreme</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Sextreme</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/255.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/x20extetl/ghfffx.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Playboy TV Latin America</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Playboy TV Latin America</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1597.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/x20extetl/ghfffx.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Any sex</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Any sex</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1803.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/x20extetl/ghfffx.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Sesso Senso Tv</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Sesso Senso Tv</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1802.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/x20extetl/ghfffx.jpg</thumbnail>
 <fanart></fanart>
@@ -2831,21 +2831,21 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]PINK EROTIC 4</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]PINK EROTIC 4</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1796.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/x20extetl/ghfffx.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]VENUS</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]VENUS</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1800.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/x20extetl/ghfffx.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Hot Club 7</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]Hot Club 7</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1798.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/x20extetl/ghfffx.jpg</thumbnail>
 <fanart></fanart>
@@ -2859,7 +2859,7 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item> 
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]SIRINA 2</title> 
+<title>[B][COLOR orange]>>  [/COLOR][/B]SIRINA 2</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/2480.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/x20extetl/ghfffx.jpg</thumbnail>
 <fanart></fanart>
@@ -2875,13 +2875,13 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 --------------------------------
 
 <channel>
-<name>[COLOR orange]>>  [/COLOR][COLOR orange]Programacion EPG[/COLOR]</name>
+<name>[B][COLOR orange]>>  [/COLOR][/B][COLOR orange]Programacion EPG[/COLOR]</name>
 <info>MegaPlay Premium</info>
 <thumbnail>https://s26.postimg.org/f2yeef7mh/39842205-EPG-gu-as-de-programaci-n-electr-nica-Foto-de-archivo.jpg</thumbnail>
 <fanart>https://i1.wp.com/www.edtuttors.com/wp-content/uploads/2017/10/MegaPlay-apk-1.jpg</fanart>   
 
 <item>
-<title>[COLOR orange]>>  [/COLOR][COLOR white]Siguiente[COLOR orange]  >>[/COLOR]</title>
+<title>[B][COLOR orange]>>[/COLOR][/B]  [COLOR white]Siguiente[COLOR orange]  >>[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <thumbnail>http://cache3.asset-cache.net/xc/120813744.jpg?v=2&c=IWSAsset&k=2&d=_9y_E21B2b9uDKDTOpTCsP8wveiPiJCaNx97GJRBr5wQAAFYmDra3rn45IENUhw80</thumbnail>
 <fanart>https://i1.wp.com/www.edtuttors.com/wp-content/uploads/2017/10/MegaPlay-apk-1.jpg</fanart>   
