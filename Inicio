@@ -1981,11 +1981,25 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>
 
 <item>
+<title>[COLOR orange]>>  America 24 HD[/COLOR]</title> 
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=kLlI76mNygk</link> 
+<thumbnail>https://s10.postimg.org/uz1letabt/a24.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLOR orange]>>  [/COLOR]C5N</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1024.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s10.postimg.org/8pno879pl/c5n.jpg</thumbnail>
 <fanart></fanart>
 </item> 
+
+<item>
+<title>[COLOR orange]>>  C5N HD[/COLOR]</title> 
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=3FqxTjT63Vs</link> 
+<thumbnail>https://s10.postimg.org/8pno879pl/c5n.jpg</thumbnail>
+<fanart></fanart>
+</item>
 
 <item>
 <title>[COLOR orange]>>  [/COLOR]Canal 9</title> 
@@ -2523,8 +2537,8 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 </item>
 
 <item>
-<title>[COLOR orange]>>  [/COLOR]Foro Tv HD</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/148.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<title>[COLOR orange]>>  Foro Tv HD[/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/elecuy/3844/148.m3u8</link> 
 <thumbnail>http://z.cdn.entutele.com/media/channels/big/foro-tv-hd.gif</thumbnail>
 <fanart></fanart>
 </item> 
