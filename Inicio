@@ -2083,19 +2083,18 @@ item>
 <channel>
 <name>[B][COLOR orange]>>[/COLOR][/B]  [COLOR white]Tv España[/COLOR]</name>
 <info>MegaPlay Premium</info>
-<thumbnail>https://s26.postimg.org/6ix3h5ufd/ESPAÑA.jpg</thumbnail>
+<thumbnail>https://s26.postimg.org/67xk3y0uh/HTB17w1pHXXXXXXrXXXX760XFXXXg.jpg</thumbnail>
 <fanart>https://i1.wp.com/www.edtuttors.com/wp-content/uploads/2017/10/MegaPlay-apk-1.jpg</fanart> 
 
-
 <item>
-<title>[B][COLOR orange]>>  [/B][/COLOR]#0 ES</title> 
+<title>[B][COLOR orange]>>  [/B][/COLOR]#0</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Andyes/Andyes/3676.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://1.bp.blogspot.com/-mLYazT7W2vw/WkMI2SCOHpI/AAAAAAAAClM/klp_ak2r8IUX7I-w3UN4PuI_lDuOzsxbgCK4BGAYYCw/s1600/ox.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[B][COLOR orange]>>  [/B][/COLOR]AyE ES</title> 
+<title>[B][COLOR orange]>>  [/B][/COLOR]A&E ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Andyes/Andyes/443.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/gz9no7d2v/aye.jpg</thumbnail>
 <fanart></fanart>
@@ -2109,11 +2108,11 @@ item>
 </item>  
 
 <item>
-<title>[B][COLOR orange]>>  AXN ES HD[/B][/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/Andyes/Andyes/466.ts</link> 
+<title>[B][COLOR orange]>>  [/B][/COLOR]AXN ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Andyes/Andyes/466.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/ug6m73pzb/axn.jpg</thumbnail>
 <fanart></fanart>
-</item>  
+</item>  tvg-id="AXN.es" tvg-name="AXN ES" tvg-logo="" group-title="ESPAÑA",
 
 <item>
 <title>[B][COLOR orange]>>  [/B][/COLOR]AXN White ES</title> 
@@ -2123,32 +2122,18 @@ item>
 </item>
 
 <item>
-<title>[B][COLOR orange]>>  Antena 3 ES HD[/B][/COLOR]</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Andyes/Andyes/467.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
-<thumbnail>https://s5.postimg.org/8xq0juwhz/Antena_3.jpg</thumbnail>
-<fanart></fanart>
-</item>   
-
-<item>
-<title>[B][COLOR orange]>>  [/B][/COLOR]Nat Geo Wild ES</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Andyes/Andyes/430.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
-<thumbnail>https://s5.postimg.org/tqntuvmwn/nachowilstors.jpg</thumbnail>
-<fanart></fanart>
-</item> 
-
-<item>
-<title>[B][COLOR orange]>>  [/B][/COLOR]National Geographic ES</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Andyes/Andyes/429.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
-<thumbnail>https://s5.postimg.org/usy0dfdfr/national_geografica.jpg</thumbnail>
+<title>[B][COLOR orange]>>  [/B][/COLOR]A3 SERIES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Andyes/Andyes/3236.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/xzsjwsq3b/a3series.jpg</thumbnail>
 <fanart></fanart>
 </item>  
 
 <item>
-<title>[B][COLOR orange]>>  A3 Series HD[/B][/COLOR]</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Andyes/Andyes/3236.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
-<thumbnail>https://s5.postimg.org/xzsjwsq3b/a3series.jpg</thumbnail>
+<title>[B][COLOR orange]>>  [/B][/COLOR]Antena 3 ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Andyes/Andyes/467.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/8xq0juwhz/Antena_3.jpg</thumbnail>
 <fanart></fanart>
-</item>
+</item>   
 
 <item>
 <title>[B][COLOR orange]>>  [/B][/COLOR]Canal 24H ES</title> 
@@ -2165,11 +2150,18 @@ item>
 </item> 
 
 <item>
-<title>[B][COLOR orange]>>  [/B][/COLOR]Caza y Pesca</title> 
+<title>[B][COLOR orange]>>  [/B][/COLOR]CAZA Y PESCA</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Andyes/Andyes/3675.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/6p78p102v/casaypescaso.jpg</thumbnail>
 <fanart></fanart>
 </item> 
+
+<item>
+<title>[B][COLOR orange]>>  [/B][/COLOR]Clan TVE ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Andyes/Andyes/1065.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/g0xvzhhd3/clan.jpg</thumbnail>
+<fanart></fanart>
+</item>  
 
 <item>
 <title>[B][COLOR orange]>>  [/B][/COLOR]Crimen Investigation</title> 
@@ -2179,8 +2171,8 @@ item>
 </item> 
 
 <item>
-<title>[B][COLOR orange]>>  Cuatro ES HD[/B][/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/Andyes/Andyes/456.ts</link> 
+<title>[B][COLOR orange]>>  [/B][/COLOR]Cuatro ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Andyes/Andyes/456.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s26.postimg.org/tsht9bnqx/cachinopo.jpg</thumbnail>
 <fanart></fanart>
 </item> 
@@ -2249,7 +2241,7 @@ item>
 </item> 
 
 <item>
-<title>[B][COLOR orange]>>  La Sexta ES HD[/B][/COLOR]</title> 
+<title>[B][COLOR orange]>>  [/B][/COLOR]La Sexta ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Andyes/Andyes/450.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/6t5nisxg7/LA_SEXTA.jpg</thumbnail>
 <fanart></fanart>
@@ -2259,13 +2251,6 @@ item>
 <title>[B][COLOR orange]>>  [/B][/COLOR]Mega ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Andyes/Andyes/449.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/c0m59u1lz/mega.jpg</thumbnail>
-<fanart></fanart>
-</item> 
-
-<item>
-<title>[B][COLOR orange]>>  [/B][/COLOR]Movistar Estrenos ES</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Andyes/Andyes/461.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
-<thumbnail>https://s5.postimg.org/8h07jzgvr/estrenomovi.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
@@ -2291,29 +2276,15 @@ item>
 </item> 
 
 <item>
-<title>[B][COLOR orange]>>  Movistar Series ES HD[/B][/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/Andyes/Andyes/459.ts</link> 
-<thumbnail>https://s5.postimg.org/u4tr7njd3/series1.jpg</thumbnail>
+<title>[B][COLOR orange]>>  [/B][/COLOR]Movistar Deportes 1</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Andyes/Andyes/441.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/oj7c3tvlj/depo1.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[B][COLOR orange]>>  [/B][/COLOR]Movistar Series XTRA ES</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Andyes/Andyes/458.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
-<thumbnail>https://s5.postimg.org/djm4s97rb/xtr.jpg</thumbnail>
-<fanart></fanart>
-</item> 
-
-<item>
-<title>[B][COLOR orange]>>  Movistar Xtra ES HD[/B][/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/Andyes/Andyes/457.ts</link> 
-<thumbnail>https://s5.postimg.org/vaxr6mn53/xtra.jpg</thumbnail>
-<fanart></fanart>
-</item>  
-
-<item>
-<title>[B][COLOR orange]>>  Paramount Channel ES HD[/B][/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/Andyes/Andyes/447.ts</link> 
+<title>[B][COLOR orange]>>  [/B][/COLOR]Paramount Channel ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Andyes/Andyes/447.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/5bk770nhz/paramount.jpg</thumbnail>
 <fanart></fanart>
 </item> 
@@ -2326,7 +2297,7 @@ item>
 </item>  
 
 <item>
-<title>[B][COLOR orange]>>  TCM ES HD[/B][/COLOR]</title> 
+<title>[B][COLOR orange]>>  [/B][/COLOR]TCM ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Andyes/Andyes/445.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/kx1iqyrqf/tcm.jpg</thumbnail>
 <fanart></fanart>
@@ -2340,16 +2311,16 @@ item>
 </item> 
 
 <item>
-<title>[B][COLOR orange]>>  [/B][/COLOR]Movistar Deportes 1</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Andyes/Andyes/441.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
-<thumbnail>https://s5.postimg.org/oj7c3tvlj/depo1.jpg</thumbnail>
+<title>[B][COLOR orange]>>  [/B][/COLOR]Movistar Deportes 2</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Andyes/Andyes/3674.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/xqzkkjadj/depo2.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
 <item>
-<title>[B][COLOR orange]>>  Movistar Deportes 2 HD[/B][/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/Andyes/Andyes/3674.ts</link> 
-<thumbnail>https://s5.postimg.org/xqzkkjadj/depo2.jpg</thumbnail>
+<title>[B][COLOR orange]>>  [/B][/COLOR]Movistar Estrenos ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Andyes/Andyes/461.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/8h07jzgvr/estrenomovi.jpg</thumbnail>
 <fanart></fanart>
 </item> 
 
@@ -2361,7 +2332,42 @@ item>
 </item>  
 
 <item>
-<title>[B][COLOR orange]>>  Neox ES HD[/B][/COLOR]</title> 
+<title>[B][COLOR orange]>>  [/B][/COLOR]Movistar Series ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Andyes/Andyes/459.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/u4tr7njd3/series1.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>[B][COLOR orange]>>  [/B][/COLOR]Movistar Series XTRA ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Andyes/Andyes/458.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/djm4s97rb/xtr.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>[B][COLOR orange]>>  [/B][/COLOR]Movistar Xtra ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Andyes/Andyes/457.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/vaxr6mn53/xtra.jpg</thumbnail>
+<fanart></fanart>
+</item>  
+
+<item>
+<title>[B][COLOR orange]>>  [/B][/COLOR]Nat Geo Wild ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Andyes/Andyes/430.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/tqntuvmwn/nachowilstors.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>[B][COLOR orange]>>  [/B][/COLOR]National Geographic ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Andyes/Andyes/429.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s5.postimg.org/usy0dfdfr/national_geografica.jpg</thumbnail>
+<fanart></fanart>
+</item>  
+
+<item>
+<title>[B][COLOR orange]>>  [/B][/COLOR]Neox ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Andyes/Andyes/448.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/xa9rkp51z/neox.jpg</thumbnail>
 <fanart></fanart>
@@ -2382,7 +2388,7 @@ item>
 </item> 
 
 <item>
-<title>[B][COLOR orange]>>  Disney Channel ES HD[/B][/COLOR]</title> 
+<title>[B][COLOR orange]>>  [/B][/COLOR]Disney Channel ES</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Andyes/Andyes/436.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/3mr55hh9z/disnch.jpg</thumbnail>
 <fanart></fanart>
@@ -2410,15 +2416,8 @@ item>
 </item>  
 
 <item>
-<title>[B][COLOR orange]>>  [/B][/COLOR]Clan ES</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Andyes/Andyes/1065.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
-<thumbnail>https://s5.postimg.org/g0xvzhhd3/clan.jpg</thumbnail>
-<fanart></fanart>
-</item>  
-
-<item>
-<title>[B][COLOR orange]>>  Viajar ES HD[/B][/COLOR]</title> 
-<link>http://158.69.52.43:8000/live/Andyes/Andyes/420.ts</link> 
+<title>[B][COLOR orange]>>  [/B][/COLOR]Viajar ES</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Andyes/Andyes/420.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s5.postimg.org/fcp1gqszr/viajar.jpg</thumbnail>
 <fanart></fanart>
 </item> 
