@@ -135,7 +135,7 @@ channel>
 <item>
 <title>[COLOR orange]>>  [/COLOR]CNN Español</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/197.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
-<thumbnail>http://z.cdn.entutele.com/media/channels/big/cnn-hd.gif</thumbnail>
+<thumbnail>https://s5.postimg.org/3y8liu5lz/cnn.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -361,14 +361,14 @@ http://158.69.52.43:8000/live/elecuy/3844/61.ts
 <item>
 <title>[COLOR orange]>>  [/COLOR]Univision</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elecuy/3844/1455.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
-<thumbnail>https://s6.postimg.org/9mu32qonl/univision.png</thumbnail>
+<thumbnail>https://s26.postimg.org/4q7iegbt5/USDHFSUFH.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLOR orange]>>  Univision HD[/COLOR]</title> 
 <link>http://158.69.52.43:8000/live/elecuy/3844/1455.m3u8</link> 
-<thumbnail>https://s6.postimg.org/9mu32qonl/univision.png</thumbnail>
+<thumbnail>https://s26.postimg.org/btfdu29ix/DDSDH.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
