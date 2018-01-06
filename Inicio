@@ -1199,6 +1199,13 @@ item>
 </item>
 
 <item>
+<title>[B][COLOR orange]>>  [/B][/COLOR]HMX MX</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Andyes/Andyes/13.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<thumbnail>https://s6.postimg.org/hqdt140up/hmx.png</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
 <title>[B][COLOR orange]>>  [/B][/COLOR]Canal F1</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Andyes/Andyes/90.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>https://s6.postimg.org/atf1auf69/F1-3d.png</thumbnail>
@@ -1325,13 +1332,6 @@ item>
 </item> 
 
 <item>
-<title>[B][COLOR orange]>>  [/B][/COLOR]HMX</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Andyes/Andyes/13.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
-<thumbnail>https://s6.postimg.org/hqdt140up/hmx.png</thumbnail>
-<fanart></fanart>
-</item> 
-
-<item>
 <title>[B][COLOR orange]>>  [/B][/COLOR]Manchester United Tv</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Andyes/Andyes/3991.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
 <thumbnail>http://158.69.52.43:8000/imagenes/3991.jpg</thumbnail>
@@ -1360,8 +1360,8 @@ item>
 </item> 
 
 <item>
-<title>[B][COLOR orange]>>  [/B][/COLOR]NBA TV</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Andyes/Andyes/347.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=MegaPlay</link> 
+<title>[B][COLOR orange]>>  NBA TV HD[/B][/COLOR]</title> 
+<link>http://158.69.52.43:8000/live/Andyes/Andyes/347.ts</link> 
 <thumbnail>http://static.iptv-epg.com/us/NBATV.us.png</thumbnail>
 <fanart></fanart>
 </item> 
